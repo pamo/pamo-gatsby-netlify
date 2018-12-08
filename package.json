@@ -1,8 +1,8 @@
 {
   "name": "gatsby-starter-minimal-blog",
-  "description": "Gatsby Starter - Minimal Blog",
+  "description": "likescoffee.com",
   "version": "2.0.0",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "Pamela Ocampo <pamela.ocampo@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.8.0",
     "gatsby": "^2.0.37",
@@ -12,12 +12,19 @@
     "gatsby-plugin-netlify": "^2.0.3",
     "gatsby-plugin-offline": "^2.0.11",
     "gatsby-plugin-react-helmet": "^3.0.1",
+    "gatsby-plugin-sharp": "^2.0.15",
     "gatsby-plugin-sitemap": "^2.0.2",
     "gatsby-plugin-styled-components": "^3.0.1",
     "gatsby-plugin-typography": "^2.2.1",
     "gatsby-remark-autolink-headers": "^2.0.9",
+    "gatsby-remark-embed-gist": "^1.1.4",
+    "gatsby-remark-emoji-unicode": "^0.1.0",
     "gatsby-remark-external-links": "0.0.4",
+    "gatsby-remark-images": "^3.0.1",
+    "gatsby-remark-images-grid": "^1.0.2",
     "gatsby-remark-prismjs": "^3.0.3",
+    "gatsby-remark-smartypants": "^2.0.7",
+    "gatsby-remark-social-cards": "^0.4.0",
     "gatsby-source-filesystem": "^2.0.7",
     "gatsby-transformer-remark": "^2.1.11",
     "lodash": "^4.17.11",
@@ -33,8 +40,7 @@
   },
   "keywords": [
     "gatsby",
-    "gatsby-starter",
-    "lekoarts"
+    "gatsby-starter"
   ],
   "license": "MIT",
   "main": "n/a",

@@ -1,11 +1,11 @@
 ---
-category: "Conferences"
-date: "2014-09-21"
-path: "pbjs"
+category: 'Conferences'
+date: '2014-09-21'
+path: 'pbjs'
 title: Powered by Java!..script.
 ---
 
-~[Java -- The Future](./signage.jpg)
+![Java -- The Future](./signage.jpg)
 
 The [Manning Powered by Javascript](http://www.manning.com/poweredbyjavascript/) workshop was a mini conference of the current state of Javascript.
 By the end of the day, it was clear:
@@ -25,7 +25,7 @@ The meat of Dan's talk focused on one of the biggest engineering challenges we f
 My introduction to the Javascript world and web app development has been with Angular serving data from a legacy APIs.
 Dan described this as a big cause of delaying an application launch anywhere from 6 to 24 months. I've also been witness to the evident slow front-end experience these services cause.
 
-### Front-end back-end
+### Frontend backend
 
 What Dan proposes is to build a Node "front-end back-end" as a middle tier between the legacy monolith to deliver front-end assets.
 Like most micro-services, this middle tier allows us separate concerns between the front-end and back-end data.

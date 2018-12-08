@@ -13,15 +13,15 @@ I also couldn't think of a better way to cash-in a long over-due :cake:-day #tre
 
 When it comes to the gastronomic culture in Melbourne, I think I'm in good hands.
 
-~[Mia holding her iPhone to take a photo](mia-melb-guide.jpg)
+![Mia holding her iPhone to take a photo](mia-melb-guide.jpg)
 _Mia photographing me photographing coffee_
 
 I have to say, Melbourne has definitely tickled my hipster senses.
 
-~[Coffee Menu](industry-beans-menu.jpg)
+![Coffee Menu](industry-beans-menu.jpg)
 _Dedicated coffee menu at Industry Beans_
 
-~[Coffee course](coffee-course.jpg)
+![Coffee course](coffee-course.jpg)
 
 I've traveled to three different countries with Mia (India, United Arab Emirates, and now, Australia), and can trust her guidance when it comes to food and coffee.
 I don't need to be persuaded when it comes to her opinionated views of what's good in her home turf.
@@ -30,7 +30,7 @@ My weekend arrival has been opportune to brunch food outings. I love me a good p
 
 My first meal in Melbourne after a jet-lag fighting shower was at Industry Beans in Fitzroy. Fitzroy, as Mia describes it, is a _different_ kind of hipster neighborhood. Same prices, but less "posh" than some of the other ones.
 
-~[Crispy Beans & Quinoa: Poached egg on a bed of quinoa and crunchy black beans](crispy-beans.jpg)
+![Crispy Beans & Quinoa: Poached egg on a bed of quinoa and crunchy black beans](crispy-beans.jpg)
 
 The plate I had at [Industry Beans](http://industrybeans.com/pages/seasonal-menu) was called Crispy Beans and Quinoa with a poached egg and avocado smash.
 I took my time to pick out each of the individual components with every bite I took. There was plenty of cilantro and jalapeno slices to give the plate a familiar Mexican kick but what really made me happy was the texture of the black beans that were hidden in the quinoa.
@@ -39,11 +39,11 @@ I suspected the poached egg (which was perfect) and avocado smash to make the pl
 
 During our Sunday post-workout foodie hunt, we ended up at [Axil Coffee](http://axilcoffee.com.au/) in Hawthorn for brunch.
 
-~[Mia eyeing her plate because of post-workout hanger](mia-brunch.jpg)
+![Mia eyeing her plate because of post-workout hanger](mia-brunch.jpg)
 
 I've been exclusively eating sous-vide poached eggs after buying an Anova immersion circulator and had forgotten how great baked eggs can be.
 
-~[Spicy baked eggs with a dukkah spice blend and toast at Axil](axil-baked-eggs.jpg)
+![Spicy baked eggs with a dukkah spice blend and toast at Axil](axil-baked-eggs.jpg)
 
 The [dukkah spice](http://www.thekitchn.com/egyptian-spice-mix-dukkah-91659) blend on top of the dish was what attracted me to the item on the menu after our [spice night at the office](/spice-night/).
 I wanted appreciate and experience complexity of the blend on a egg dish. I also really like to bite into whole cumin seeds. :P
@@ -54,14 +54,14 @@ I don't think I've ever eaten eggs with yolks that were that deeply colored in a
 
 I really like eggs and the dishes in Melbourne have really hit the spot.
 
-~[Post-brunch archery adventure: Mia shooing a bow and arrow](mia-bowwoman.jpg)
+![Post-brunch archery adventure: Mia shooing a bow and arrow](mia-bowwoman.jpg)
 
 I got egg cravings while I was writing this post and simultaneously wandering around St. Kilda.
 
-~[When developers go to the beach, they pull out their laptops.](beached-developer.jpg)
+![When developers go to the beach, they pull out their laptops.](beached-developer.jpg)
 
 Thankfully Mia recommended another top choice in the area, [Fitzrovia](http://fitzrovia.com.au/breakfast/), where I could enjoy a flat white and solo-dine al fresco and get a shot of yolk porn.
 
-~[Fitzrovia Persian Baked eggs: green harissa, Persian fetta, and dukkah. Side of spiced Merguez sausage. Solo-dining accompanied by Tame Impala in the background.](fitzrovia-persian-take.jpg)
+![Fitzrovia Persian Baked eggs: green harissa, Persian fetta, and dukkah. Side of spiced Merguez sausage. Solo-dining accompanied by Tame Impala in the background.](fitzrovia-persian-take.jpg)
 
-~[Yolk porn: these yolks are a game changer.](fitzrovia-yolk-porn.jpg)
+![Yolk porn: these yolks are a game changer.](fitzrovia-yolk-porn.jpg)

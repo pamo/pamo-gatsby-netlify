@@ -21,6 +21,15 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          `gatsby-remark-smartypants`,
+          `gatsby-remark-emoji-unicode`,
+          `gatsby-remark-social-cards`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 590,
+            },
+          },
           {
             resolve: 'gatsby-remark-external-links',
             options: {
@@ -30,6 +39,12 @@ module.exports = {
           },
           'gatsby-remark-prismjs',
           'gatsby-remark-autolink-headers',
+          {
+            resolve: 'gatsby-remark-images-grid',
+            options: {
+              gridGap: '2rem',
+            },
+          },
         ],
       },
     },
