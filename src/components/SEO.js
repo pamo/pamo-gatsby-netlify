@@ -56,11 +56,13 @@ const SEO = props => {
           name: config.author,
         },
         publisher: {
-          '@type': 'Organization',
+          '@type': 'Person',
           name: config.author,
-          logo: {
-            '@type': 'ImageObject',
-            url: config.siteUrl + realPrefix + config.siteLogo,
+          image: {
+            photo: {
+              '@type': 'ImageObject',
+              url: config.siteUrl + realPrefix + config.siteLogo,
+            },
           },
         },
         isPartOf: blogURL,

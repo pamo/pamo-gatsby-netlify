@@ -47,7 +47,7 @@ const IndexPage = ({
       <Hero>
         <h1>Hola.</h1>
         <p>
-          I'm Pamela (or Pam or pamo) Ocampo and I spend more time tweaking the CSS and markup of this blog than I do
+          I'm Pamela Ocampo, and I spend more time tweaking the CSS and markup of this blog than I do
           writing.
         </p>
         <Link to="/contact">
