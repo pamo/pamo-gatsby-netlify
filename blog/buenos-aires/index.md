@@ -1,5 +1,6 @@
 ---
-title: Buenos Aires
+title: Visiting Buenos Aires in Argentina
+path: 'buenos-aires'
 category: Travel
 date: '2016-06-27'
 ---

@@ -1,5 +1,6 @@
 ---
-title: Goa
+title: Visiting Goa in India
+path: 'goa'
 category: Travel
 date: '2015-11-01'
 ---

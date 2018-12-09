@@ -1,7 +1,7 @@
 ---
-category: "Food"
-date: "2016-11-16"
-path: "cooking-with-cocco"
+category: 'Food'
+date: '2016-11-16'
+path: 'cooking-with-cocco'
 title: Cooking with Cocco
 ---
 
@@ -79,12 +79,17 @@ With a simple squeeze, Cocco is able to spoon off ground chicken into perfectly 
 
 @[instagram](BMh9E9xgOzR)
 
+```grid|3|
 ![Cooked chicken meatballs with scallions and grated ginger.](chicken-meatball.jpg)
 ![Started off the meal with a sake 🍶✨ kanpai!](kanpai.jpg)
 ![Roasted Hoba-yaki.](magnolia-leaf-cooked-closed.jpg)
 ![Unwrapped Hoba-yaki.](magnolia-leaf-cooked.jpg)
+```
+
+```grid|2|
 ![Almost complete spread. Delicious, seasonal, satisfying.](set-table.jpg)
 ![Fin: seasonal kabocha red bean sweets.](kabocha-dessert.jpg)
+```
 
 The hospitality and serenity of the event is what will linger in my thoughts the most,
 but for your reference (and mine as well) here's a list of the dishes from Cocco's menu we enjoyed that day:

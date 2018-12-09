@@ -28,15 +28,19 @@ One of the more memorable moments was at the beginning of our tour was when we l
 
 Sang Made explained that in their culture, fruits are normally used for enhancing the offerings to their gods. Fruits are fun! We inspected many that were exotic for most of us.
 
+````grid|3|Exotic Fruit Pop Quiz
 ![Familiar fruits](market_familiar_fruits.jpg)
 ![Pop quiz, what fruit could this be? The answer is jackfruit!](market_who_can_tell_me_what_fruit.jpg)
+```
 
 We inspected the 'snakeskin' fruit in detail. In summary, it's mildly bland and crunchy. I'll stick to dragon fruit next time.
 
+```grid|3|Exotic snakeskin fruit find
 ![Lives up to its snakeskin name](market_snakeskin_fruit.jpg)
 ![Peels like a banana](market_peel_it_like_a_banana.jpg)
 ![before taking a bite](market_what's_inside.jpg)
 ![brown pit inside the flesh](market_crunchy_and_kinda_bland.jpg)
+````
 
 ## Balinese Culture
 
@@ -52,10 +56,13 @@ Apparently, [having teeth filed is a common coming of age tradition](http://www.
 
 Although we experienced a [daily Hindu offering](http://alittleadrift.com/ritual-balinese-beliefs-offerings/) before our meal, during the tour of Payangan market, Sang Made explained that while it's stereotypical for women to have the kitchen role in other cultures, in Bali, it's their responsibility to hand-make daily offerings (but in some cases the task is translated to purchasing them at the market).
 
-![Preparing kits for daily offerings](market_methodical_offering_kit.jpg)
+```grid|4|
 ![cash for offering](market_offerings_as_a_transaction.jpg)
 ![Offering vendor waiting for the next customer](market_offering_vendor.jpg)
 ![Offerings](market_completed_offerings_for_sale.jpg)
+```
+
+![Preparing kits for daily offerings](market_methodical_offering_kit.jpg)
 
 This is partly because offerings symbolize beauty. As a result of this female responsibility, a man's place in Bali is in the kitchen. Sang Made also made a point to mention that you will not see men making offerings in Bali, and if you do, that man is referred to as a “beautiful man”.
 
@@ -64,27 +71,34 @@ This is partly because offerings symbolize beauty. As a result of this female re
 The primary purpose of the market tour was to have a first hand look at what ingredients would look like among market stands.
 We talked about the salad we would be making and a distinction was made between the greens in traditional western salads and Balinese salads. In Bali, fern tips are used rather than the common romaine, spinach, and kale.
 
+```grid|4|Getting Herbal
 ![Fresh ferns for Jukut Urab.](market_fern.jpg)
-![Aromatic basil and lemongrass found in a variety of Balinese delicacies](market_aromatic_basil_and_lemongrass.jpg)
-
-[_Bumbu Bali_ or _Base Gede_ is a sauce that flavors many dishes](https://andanyways.com/2014/05/25/how-to-make-bumbu-bali-or-base-gede/). To me it sounds like a _masala_ you would make to flavor an Indian dish. We inspected each of the root vegetables serving a role in "bumbu Bali" (base Balinese sauce) and discussed the
-difficulty of being able to find these in a conventional grocery store back home.
-
 ![Ginger, galangal, and aromatic ginger](market_root_veggies_used_as_foundation_spices.jpg)
+![Aromatic basil and lemongrass found in a variety of Balinese delicacies](market_aromatic_basil_and_lemongrass.jpg)
+```
+
+[_Bumbu Bali_ or _Base Gede_ is a sauce that flavors many dishes](https://andanyways.com/2014/05/25/how-to-make-bumbu-bali-or-base-gede/).
+To me it sounds like a _masala_ you would make to flavor an Indian dish. We inspected each of the root vegetables serving a role in "bumbu Bali" (base Balinese sauce) and discussed the
+difficulty of being able to find these in a conventional grocery store back home.
 
 ### Market Snacks
 
 During our tour of the market, Sang Made pointed out snack food common in most markets.
 
 We watched a sate stand owner carefully turn each stick of meat and waft air on the coconut shell charcoal to disperse heat.
+
+```grid|3|
 ![The art of sate means knowing when it's well done.](market_art_of_sate.jpg)
 ![Sate stand](market_sate_offerings_at_9am.jpg)
+```
 
 As we watched a woman make what looked like a refreshing coconut jelly drink, Sang Made advised us that our stomachs may not be prepared for it, and that we should stay away. I didn't come across a similar vendor during my vacation so I never got another opportunity to try it.
 
+```grid|2|
 ![Coconut jelly drink](market_coconut_jelly_snack_drink.jpg)
 ![A hefty helping of palm sugar syrup](market_healthy_helping_of_palm_sugar.jpg)
 ![Ready to drink jelly](market_flavored_jelly_for_sale.jpg)
+```
 
 ## Chop Chop, Bali!
 
@@ -99,10 +113,13 @@ The preparation of the chicken for the first two chicken recipes was similar wit
 ### Base Gede
 
 _Basic spice base_. A foundation to Balinese cooking!
+
+```grid|3|
 ![Chop, chop!](prep_chop_bumbu.jpg)
 ![Slice](prep_slice_bumbu.jpg)
 ![Loved some knife work and especially loved the tamarind wood chopping block](prep_mince_bumbu.jpg)
 ![Take the bumbu to a mortar and pestle and grind until it forms a paste](prep_collecting_students_bumbu.jpg)
+```
 
 #### Ingredients
 
@@ -125,7 +142,7 @@ _Basic spice base_. A foundation to Balinese cooking!
 - 3 tsp palm sugar syrup
 - Salt and pepper to taste
 
-\* #### Substitutions:
+#### Substitutions:
 
 - Fresh turmeric: turmeric powder
 - Candle nut: macadamia nut
@@ -136,9 +153,9 @@ _Basic spice base_. A foundation to Balinese cooking!
 2. Grind chopped spices in a mortar in pestle or a food processor until a paste is formed.
 3. Place paste in a heavy pan and add remaining spices (with the exception of syrup and tamarind). Simmer over medium heat for approximately 20 minutes or until water/chicken stock is incorporated and mixture turns into a golden color.
 4. Finally add 3 tsp palm sugar and 2 tsp tamarind juice.
-5. Allow to cool thoroughly before use or storage. Freeze to keep for 6 months or less. \*
+5. Allow to cool thoroughly before use or storage. Freeze to keep for 6 months or less.
 
-\* #### If storing, remove salam leaf, lemongrass, and kaffir lime.
+#### If storing, remove salam leaf, lemongrass, and kaffir lime.
 
 ### Ayam Bakar Sambal Matah
 
@@ -168,16 +185,20 @@ _Shredded poached chicken, lemongrass, chili kaffir lime dressing_
 5. Using a separate bowl, make the raw sambal beginning with kaffir lime juice and coconut and shaking until well combined. Add the sliced ingredients and toss gently until well incorporated.
 6. Add the shredded chicken to the final raw sambal (sambal matah).
 
+```grid|3|
 ![Presentation is key](eat_constructed_ayam_bakar_sambal_matah.jpg)
 ![Portioned and plated](eat_final_ayam_bakar_sambal_matah.jpg)
+```
 
 ### Ayam Bakar Bumbu Bali (main course)
 
 _Grilled chicken breast, Balinese spice_
 
+```grid|4|
 ![Sear skin-side down for two minutes](prep_searing_ayam_bakar_bumbu_chicken_two_mins.jpg)
 ![Simmer](prep_braising_ayam_bakar_bumbu_chicken.jpg)
 ![Grilled and reheating prior to serving](prep_cooked_ayam_bakar_bumbu.jpg)
+```
 
 #### Ingredients
 
@@ -200,22 +221,26 @@ _Grilled chicken breast, Balinese spice_
 6. Remove chicken from pan and grill until well cooked.
 7. Place chicken back in sauce and serve with rice and vegetables.
 
+```grid|3|
 ![Chicken prior to plating](eat_presented_ayam_bakar_bumbu.jpg)
 ![Dig in](eat_overhead_ayam_bakar_bumbu_bali.jpg)
+```
 
 ### Jukut Urab
 
 _Mixed vegetable salad, grated coconut, garlic chili dressing._
 
+```grid|3|
 ![Prepped jukut urab](prep_jukut_urab_components.jpg)
 ![Constructed jukut urab](prep_constructed_jukut_urab.jpg)
 ![Grated coconut is a magical secret ingredient](prep_grated_coconut_in_all_the_things.jpg)
+```
 
 #### Ingredients
 
 - 200 g shredded blanched spinach
 - 200 g bean sprouts
-- 100 g fern tips cut into 1/2 cm slices \*
+- 100 g fern tips cut into 1/2 cm slices
 - 1/2 cup roasted grated coconut
 - 1 cup sambal goreng
 - 1 shredded kaffir lime
@@ -252,11 +277,13 @@ _Mixed vegetable salad, grated coconut, garlic chili dressing._
 
 _Peanut sauce_
 
+```grid|2|
 ![Sate paste ingredients](prep_sate_paste_ingredients.jpg)
 ![Frying ingredients for sate paste](prep_frying_peanuts_for_sate_paste.jpg)
 ![Fry until the garlic is browned and add green chilies at the end](prep_fry_until_garlic_browns.jpg)
 ![Forming a paste on a mortar and pestle](prep_stone_ground_paste.jpg)
 ![Once a paste is formed, add coconut milk to create the sauce](prep_sate_paste_coconut_milk_for_sauce.jpg)
+```
 
 #### Ingredients
 
@@ -283,11 +310,14 @@ _Peanut sauce_
 ### Sate Lilit Ayam
 
 _Minced chicken skewers, grated coconut, kaffir lime juice_
+
+```grid|3|
 ![Ground chicken ready for seasoning](prep_ground_chicken.jpg)
 ![Can't forget the grated coconut](prep_grated_coconut_magical_ingredient.jpg)
 ![Mix the chicken dough!](prep_mix_the_chicken_dough.jpg)
 ![Coax the meat onto its stick](prep_coax_the_meat_on_the_stick.jpg)
 ![Ready to grill](prep_basket_of_sate_lilit_ayam.jpg)
+```
 
 #### Ingredients
 
@@ -307,8 +337,10 @@ _Minced chicken skewers, grated coconut, kaffir lime juice_
 3. Grill until golden brown.
 4. Serve with peanut sauce.
 
+```grid|2|
 ![Cooked skewers](eat_appetizer.jpg)
 ![right off the grill](eat_cooked_sate_chicken.jpg)
+```
 
 ### Sambal Ulek
 
@@ -427,9 +459,11 @@ _Fried banana fritters_
 
 Before we ate, we followed tradition to honor Hindu gods with offerings from the food we prepared that morning. Sang Made's mother did the honors. Usually, these honors are done early in the morning after the day's food has been prepared and is set aside in the kitchen for whoever is hungry to come and go as they see fit. Balinese rarely eat sitting down together, according to Sang Made.
 
+```grid|3|
 ![Offerings from our creations](eat_offerings_from_our_creations.jpg)
 ![Entering the family temple](eat_enter_the_temple.jpg)
 ![Placing the offerings on the shrine](eat_placing_offerings.jpg)
 ![Blessing the offerings](eat_blessing_offerings.jpg)
+```
 
 After we stepped out of the temple we sat down at a table set in the central courtyard of the family compound and waited for each course to be served. My phone was dead at this point and the rest of my classmates were Dutch or French, so focusing on each bite and appreciating the work that had gone into creating each dish was how I kept myself occupied. I had given up on pretending to understand the Dutch and French conversations that dominated the group around me much earlier in the day.

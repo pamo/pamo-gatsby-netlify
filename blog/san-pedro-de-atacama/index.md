@@ -1,7 +1,6 @@
 ---
-title: San Pedro de Atacama
-coverPhoto: 'take-my-photo.jpg'
-coverPhotoShift: 80
+title: Mini Vacation in San Pedro de Atacama, Chile
+path: 'san-pedro-de-atacama'
 category: Travel
 date: '2016-11-01'
 ---
@@ -85,7 +84,7 @@ I did a bike ride on my second day in San Pedro de Atacama with a friend I made 
 
 From San Pedro de Atacama, we found a bike rental shop called [Turismo Teckara](http://4sq.com/Qk39Xy) that lent us very nice Trek mountain bikes for 7.000 CLP for 6 hours. The rumor is that there is no penalty if you return the bikes later than 6 hours.
 
-![$1]
+![Purple Trek.](purple-trek.jpg)
 
 You can also rent bikes from Hostal Matty (next door) for 500 CLP less per bike but the purple trek is obviously superior.
 
@@ -118,11 +117,11 @@ I am not one for breakfast but I could not say no to good bread.
 
 My expectations for lunch were ham and cheese sandwiches but I was extremely and pleasantly surprised when the tour guide laid out the lunch spread: A pesto pasta salad, pumpkin soup, cucumber and bell pepper quinoa salad, grilled chicken tenders, and more of the crack bread. :bread:
 
-![$1]
+![Almuerzo en el Salar.](salar-lunch.jpg)
 
 According to the guide, the food came from a restaurant near Hostal La Ruca called [Jallalla](https://www.facebook.com/jallallasanpedro/). Thanks for the fantastic food coma, Paula! :heart:
 
-![$1]
+![Lunch with a view of Salar de Atacama and Piedras Rojas.](lunch-view.jpg)
 
 #### Mini Star Gazing Tour
 
@@ -143,7 +142,7 @@ Reserved a day before but was not allowed to secure the spot by paying until the
 
 This was a last minute booking that I felt lucky to have found (everyone else was booked and cash only). This was my favorite tour out of the rest by far. The guide was charming in his way of talking about what we were about to see along the trip. We covered a lot of ground by stopping at [Mirador de Kari/Piedra del Coyote](https://www.tripadvisor.es/Attraction_Review-g303681-d4834728-Reviews-Mirador_de_Kari_Piedra_del_Coyote-San_Pedro_de_Atacama_Antofagasta_Region.html).
 
-![$1]
+![Solo traveling means asking other solo travelers to take your photo.](take-my-photo.jpg)
 
 We also drove and trekked along a ridge where the wind began to pick up.
 Our ride would be waiting for us at the basin so we finally running down a sand dune to "survive" Valle de la Muerte and continue exploring the salt mountain range in Valle de la Luna.
@@ -176,11 +175,11 @@ So I did it, I saw it, I took a dip. Seeing the geysers as the sun is rising is 
 
 We stopped at Pueblo de Machuca along the way on our way back to San Pedro de Atacama and had the opportunity to buy llama kebabs and goat cheese empanadas (fried).
 
-![$1]
+![Llama kebab pit-stop.](kebabs.jpg)
 
 The scene was enough entertainment for me. I asked if the trumpet was to signal that the food would be out soon (a la [sad trombone](https://www.sadtrombone.com/?autoplay=true)) but it was just to entertain the long line of hungry travelers.
 
-![$1]
+![Sad trumpet?](sad-trumpet.jpg)
 
 #### Late Night (Halloween Special) Valle de La Luna Salt Caves
 

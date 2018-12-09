@@ -1,5 +1,6 @@
 ---
-title: Puerto Natales
+title: Visiting Puerto Natales in Chile
+path: 'puerto-natales'
 category: Travel
 date: '2016-10-27'
 ---

@@ -1,5 +1,6 @@
 ---
-title: Punta Arenas
+title: One Night Stay in Punta Arenas, Chile
+path: 'punta-arenas'
 category: Travel
 draft: true
 date: '2016-09-01'

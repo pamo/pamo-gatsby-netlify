@@ -1,5 +1,6 @@
 ---
-title: Santiago
+title: Living in Santiago
+path: 'santiago'
 category: Travel
 date: '2016-08-06'
 ---

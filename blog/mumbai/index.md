@@ -1,5 +1,6 @@
 ---
-title: Mumbai
+title: Visiting Mumbai in India
+path: 'mumbai'
 category: Travel
 date: '2015-11-01'
 ---
@@ -11,7 +12,8 @@ date: '2015-11-01'
   Summer during each occasion in 2014 and 2015.
 - Reason:
   My weekend getaway while I was in Pune for [TWU](/hello-from-pune/) as a trainer.
-  ![$1]
+
+~[Bombay by the sea](bombay-by-the-sea.jpg)
 
 ### Local Transportation
 
@@ -35,7 +37,8 @@ Once you're there, rickshaws are your best bet to get around (or [Uber](https://
 Starting near the airport (northern part of Mumbai) and working your way south can get very expensive given there's a toll to cross over the [Bandra-Worli Sea Link](https://en.wikipedia.org/wiki/Bandra%E2%80%93Worli_Sea_Link). However, if you haven't seen the Sea Link, I recommend riding over it at least once.
 
 If you do happen to find yourself far north (I ended up in [Jogeshwari East](https://goo.gl/maps/udG6xSwXdwK2) once, for example) another option is to take the local train to [Churchgate](https://en.wikipedia.org/wiki/Churchgate). This is a fun activity in itself and I enjoyed it despite the heat and humidity in the summer.
-![$1]
+
+~[Churchgate at dusk](churchgate-at-night.jpg)
 
 I found this fun when I had time to kill and didn't want to take the risk of getting stuck in traffic in a cab. I happened to be in Mumbai during [Ganesh Chaturthi](https://en.wikipedia.org/wiki/Ganesh_Chaturthi) during my first visit and had a lot of delays trying to get through impromptu parties in the street. 💃
 
@@ -48,7 +51,8 @@ The local train ticketing booth is cash only. I recommend you don't bother buyin
 ### Money
 
 It's best to carry a bit of cash, especially if you venture into open air or antique/thrift markets with tasty street food.
-![$1]
+
+~[Street markets with mobs of people buying chaat (snacks)](street-food-mayhem.jpg)
 
 If you stick to more established restaurants and shops, you shouldn't have any issues using credit cards.
 
@@ -92,7 +96,7 @@ What I've come to notice is that my eating habits in Mumbai reflect my need to h
 - [Saltwater](https://www.zomato.com/SaltWaterCafeBandra) has coffee and what came to be my favorite brunch and lunch menu. e.g. goat cheese and beet salads, charcuterie plates for when I wanted a break from Indian cuisine.
 - I highly recommend getting Kulfi (ice cream) by the kilo at the [New Kulfi Center](https://www.zomato.com/mumbai/new-kulfi-centre-chowpatty). The menu is overwhelming with so many flavors! When you finally order it feels like you're being attended by an ice cream dealer. 😍 Be prepared with cash for this one.
 
-![$1]
+~[Ice cream dealer](kulfi-by-kilo.jpg)
 
 - [White Owl](https://www.zomato.com/thewhiteowl) brewery was an adventure to find inside the hotel-like building it's in, but the beers weren't too bad and the atmosphere was cool to hangout in.
 - [Colaba Social](https://www.zomato.com/ColabaSocial) has tasty bar food and cocktails, but seating was a little difficult to snap up.
@@ -177,4 +181,5 @@ Gallery hopping in the Fort precinct can be a hit or miss depending on whether o
 ### Be a Tourist
 
 - Try to take a selfie at [The Gateway of India](https://foursquare.com/v/gateway-of-india/4b0587d1f964a520cea222e3) without being bombarded with requests to have your picture taken with strangers. No, don't do this. Wait, do do this.
-  ![$1]
+
+![Selfie in front of the local selfie hot spot](india-gate-selfie.jpg)

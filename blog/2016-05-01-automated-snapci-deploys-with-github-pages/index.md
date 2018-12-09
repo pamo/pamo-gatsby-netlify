@@ -1,7 +1,7 @@
 ---
-category: "Programming"
-date: "2016-05-01"
-path: "snap-ci-github"
+category: 'Programming'
+date: '2016-05-01'
+path: 'snap-ci-github'
 title: Automated SnapCI Deploys with Github Pages
 ---
 
@@ -49,18 +49,18 @@ the Deploy Keys pane and [documentation](https://developer.github.com/guides/man
 It was.
 I chose to [generate a new key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) and save it to a temporary location on my machine.
 
-```
+```shell
 ssh-keygen -t rsa -b 4096 -C "team@funretro.io"
 ```
 
-```
+```shell
 Enter a file in which to save the key (/Users/you/.ssh/id_rsa): /Users/pamo/Downloads/key
 ```
 
 I copied the contents of the generated `key.pub` to the Deploys Key pane on our
 funretros repository settings and the contents of the generated key (private file) to the deploy step in our build.
 
-```
+```shell
 > Fireideaz@0.0.1 deploy /var/snap-ci/repo
 > ./deploy.sh
 
@@ -84,7 +84,7 @@ Success!
 
 If you're curious to see how I used gh-pages to deploy to specific branches and repositories, have a look at the [deploy script for Fun Retrospectives](https://github.com/funretro/distributed/blob/master/deploy.sh) and the [one for this blog](https://github.com/pamo/pamo.github.io/blob/development/package.json#L10).
 
-```
+```shell
 #!/bin/sh
 LAST_COMMIT=$(git log -1 --pretty=format:'%h %an %s')
 echo "Deploying changes from $LAST_COMMIT"
