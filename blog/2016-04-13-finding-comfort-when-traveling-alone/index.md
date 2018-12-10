@@ -23,7 +23,7 @@ One of the highlights of my trip was a day trip to [Mount Macedon](https://www.t
 with one of their climbing trips to a crag nearby.
 
 I am very thankful for the leaders of the trip, Ollie and Jayden, for letting me join, bringing an extra helmet for me, setting up routes, encouraging us to try harder routes, photographing our efforts, and rallying us around pre and post climbing coffees and snacks at the local [Trading Post](https://www.facebook.com/Mt-Macedon-Trading-Post-115565368525346/).
-@[instagram](BECVNxKpZOS)
+![instagram](BECVNxKpZOS)
 
 This trip was an opportunity to "get out of the city into nature" as I normally would at home on the weekends. I was also in joy to be around other amazing women. Beta is just not the same when a guy is giving it :P.
 

@@ -19,7 +19,7 @@ Another man replied:
 
 My reaction: WAT.
 
-@[instagram](-DJln6pZHj)
+![instagram](-DJln6pZHj)
 
 What a tasty dessert to end the two hours of walking we did around Cerro Alegre and Cerro Concepcion to learn more about Valpo's graffiti artists and collaborations.
 I noticed Don Sergio also carried empanadas and saw some of my tour-mates buy a few. I had just had lunch before the tour started but my appetite could stomach one.

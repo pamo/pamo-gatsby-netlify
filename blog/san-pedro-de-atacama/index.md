@@ -92,7 +92,7 @@ We rode for approximately 20 minutes to reach [Pucará de Quitor](http://4sq.com
 
 I am not going to lie, the loose sand, heat and incline up to the tunnel at Catarpe is tough. Make sure you pack a lot of water and prep yourself for a crazy ride back down! The view up there is great.
 
-@[instagram](BMM2If_BAr9)
+![instagram](BMM2If_BAr9)
 
 ### Tours
 
@@ -109,7 +109,7 @@ There are plenty of tours to pick from and many agencies to book at. It is not h
 Booked a day before because of the early departure. The agency that ended up picking me up but everything seemed to be under control.
 Our guide was very knowledgeable and we visited several different sights and I liked her laid back approach to herding us around. _En resumen_, we visited Laguna Chaxa, Salar de Atacama, Laguna Miscanti y Miñique, Salar de Atacama, Piedras Rojas, and did quick stops at the _poblados_ of Toconao and Socaire. None of the stops were alike in sights and weather! I recommend this to get a glimpse of a little bit of everything in one day but make sure you pack layers.
 
-@[instagram](BMRUHAjhQCf)
+![instagram](BMRUHAjhQCf)
 
 I had very low expectations when I read that breakfast and lunch were included.
 However, breakfast included slices of toasted French baguette from [La Franchuteria](http://4sq.com/WJL4Sx) in San Pedro de Atacama along with cheese, butter, jam, instant Nescafe, tea, fruit.
@@ -147,11 +147,11 @@ This was a last minute booking that I felt lucky to have found (everyone else wa
 We also drove and trekked along a ridge where the wind began to pick up.
 Our ride would be waiting for us at the basin so we finally running down a sand dune to "survive" Valle de la Muerte and continue exploring the salt mountain range in Valle de la Luna.
 
-@[instagram](BMXzKzShKsg)
+![instagram](BMXzKzShKsg)
 
 Our final stop was walking up to the anfiteatro (amphitheater) in Valle de la Luna to watch a dramatic sunset.
 
-@[instagram](BMR7zfIhZqw)
+![instagram](BMR7zfIhZqw)
 
 If there's anything you do in San Pedro de Atacama, do this.
 

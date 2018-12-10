@@ -28,7 +28,7 @@ To get to Mumbai, I used a combination of
 For taking the train or bus, I recommend finding a local to help you make a reservation online and I **definitely** recommend going with another person.
 I did it alone and had a lot of anxiety trying to figure out which platform, what train, which car, what stop, etc.
 Traveling alone is sometimes more fun, but the additional stress of doing it in a country where you don't speak the local language may be more trouble than it's worth.
-@[instagram](8aI023pZNO)
+![instagram](8aI023pZNO)
 
 #### Getting Around
 
@@ -42,7 +42,7 @@ If you do happen to find yourself far north (I ended up in [Jogeshwari East](htt
 
 I found this fun when I had time to kill and didn't want to take the risk of getting stuck in traffic in a cab. I happened to be in Mumbai during [Ganesh Chaturthi](https://en.wikipedia.org/wiki/Ganesh_Chaturthi) during my first visit and had a lot of delays trying to get through impromptu parties in the street. 💃
 
-@[instagram](sW2SRIJZER)
+![instagram](sW2SRIJZER)
 
 The local train ticketing booth is cash only. I recommend you don't bother buying a first class ticket and make sure you get on the right train car when it arrives! I accidentally got on to the men's only car once and wondered why everyone was staring at me. 🙈
 
@@ -73,16 +73,16 @@ There are a few neighborhoods I found were relevant to my interests and notes I 
 Given that these are somewhat spread apart from each other I dedicated myself to one or two of these areas whenever I'd visit.
 
 - [Kala Ghoda](https://en.wikipedia.org/wiki/Kala_Ghoda)
-  @[instagram](7jt25NJZCi)
+  ![instagram](7jt25NJZCi)
 - [Bandra West](https://en.wikipedia.org/wiki/Bandra#Urban_Art)
 - [Pali Hill](https://en.wikipedia.org/wiki/Pali_Hill)
 
 #### Dhobi Ghat
 
 On one occasion, I walked into and around Dhobi Ghat (one of the world's biggest slums) by myself. This was probably a very stupid idea. Don't do it.
-@[instagram](sZRBgLJZAl)
+![instagram](sZRBgLJZAl)
 
-@[instagram](sZRWmPJZA8)
+![instagram](sZRWmPJZA8)
 
 ## Food
 
@@ -91,7 +91,7 @@ Yelp is not popular in India so don't even bother. I'm a [foursquare](https://fo
 What I've come to notice is that my eating habits in Mumbai reflect my need to have a break from Indian food. That being said, some of the highlights from my trips were:
 
 - [Burma Burma](https://www.zomato.com/mumbai/burma-burma-fort) for delicious vegetarian Burmese curries, tea leaf salads, and tea. My first visit was a solo-dining experience I enjoyed so much I had to share with others when I visited again.
-  @[instagram](sW3EsOJZFJ)
+  ![instagram](sW3EsOJZFJ)
 - [The Pantry](https://www.zomato.com/mumbai/the-pantry-fort) for a late brunch with sausage and eggs. Also a nice place to sip on coffee.
 - [Saltwater](https://www.zomato.com/SaltWaterCafeBandra) has coffee and what came to be my favorite brunch and lunch menu. e.g. goat cheese and beet salads, charcuterie plates for when I wanted a break from Indian cuisine.
 - I highly recommend getting Kulfi (ice cream) by the kilo at the [New Kulfi Center](https://www.zomato.com/mumbai/new-kulfi-centre-chowpatty). The menu is overwhelming with so many flavors! When you finally order it feels like you're being attended by an ice cream dealer. 😍 Be prepared with cash for this one.
@@ -108,20 +108,20 @@ It's mostly about the food and space to hangout with friends.
 
 - [Kala Ghoda Café](https://www.zomato.com/mumbai/kala-ghoda-cafe-fort) is a tiny shop with WiFi during specific hours that is housed in what used to be an old barn. The epitome of hipster.
 
-      	@[instagram](7jplVMJZLJ)
+      	![instagram](7jplVMJZLJ)
 
 - [The Pantry](https://www.zomato.com/mumbai/the-pantry-fort) has OK coffee and I recommend this being a lunch destination instead.
-  @[instagram](7kDYBVJZAx)
+  ![instagram](7kDYBVJZAx)
 
 - [Birdsong Café](https://www.zomato.com/mumbai/the-birdsong-hill-road-bandra-west) can be a bit noisy if you're looking for a place to relax. I found the clientele to be moms with toddlers during lunchtime on a weekend but it's a great place to begin a self-guided street art walk.
-  @[instagram](8aKNoxJZO-)
+  ![instagram](8aKNoxJZO-)
 
 - [Saltwater](https://www.zomato.com/SaltWaterCafeBandra) is great for both food and coffee. On the coffee side of things, they have a dedicated single-origin menu. I tried to buy beans from them but they didn't want to sell them to me. 😭
-  @[instagram](9SZbapJZJ2)
+  ![instagram](9SZbapJZJ2)
 
 - [Pali Village](https://www.zomato.com/mumbai/pali-village-cafe-pali-hill-bandra-west) is also great for food and coffee. Wandering around the area can be a venue of entertainment as well.
 - [La Folie Lab](https://www.zomato.com/mumbai/la-folie-lab-hill-road-bandra-west) has different brew methods on the menu as well as an assortment of desserts and pastries.
-  @[instagram](9XiInPJZKW)
+  ![instagram](9XiInPJZKW)
 
 - [Dr. Bubbles Chai Specialist](https://foursquare.com/v/dr-bubbles-chai-specialist/55b4db5e498ecbb135cb84aa)
 
@@ -142,15 +142,15 @@ It's mostly about the food and space to hangout with friends.
 - Visit the ["Hanging gardens"](https://foursquare.com/v/hanging-gardens/4b0587d1f964a520e2a222e3) to see carved hedges that resemble different animals, but don't be surprised if you see a lot of couples lying in the grass. #foreveralone
 - Wander the Fort precinct/[Mahatma Ghandi (M.G.) Road](https://goo.gl/maps/RZ3VnvZabU62). There are a lot of street vendors, stores, and restaurants along this area as well as some hidden galleries I recommend looking for.
 
-@[instagram](sSxkGUJZN8)
+![instagram](sSxkGUJZN8)
 
 ### Art
 
 Visit street art and other murals fueled by the [ST+ART India](http://www.st-artindia.org/) organization in Bandra.
 
-@[instagram](8cEFoVJZHM)
+![instagram](8cEFoVJZHM)
 
-@[instagram](8cF6L2JZLC)
+![instagram](8cF6L2JZLC)
 
 To find a lot of the art, I scoured the internet for articles like [this one](https://lbb.in/mumbai/street-art-mumbai-probably-missed/), and [this one](http://graffitiinindia.com/main/curated-bandra-st-art-mumbai/) to guide me.
 I still have the points of interest starred in my Google Maps history.
@@ -158,18 +158,18 @@ I still have the points of interest starred in my Google Maps history.
 If you want to dedicate an afternoon of exploring the area, I'd recommend starting at [Birdsong Cafe](https://goo.gl/maps/uGL3ohBwMpz) and treating each mural sighting as a treasure hunt.
 [Nagara Lane](https://goo.gl/maps/t3zTRU3PSFr) has a walkway filled with different pieces that have potential to change frequently given some looked like temporary paste-ups.
 
-@[instagram](8bcEjwpZFL)
+![instagram](8bcEjwpZFL)
 
 Some of the murals are the height of residential buildings and hotels, like the one found at [New Friends Cooperative Housing Society](https://goo.gl/maps/cxDetHWMYGm), but you run the risk of stepping into areas tourists rarely wander into.
-@[instagram](8dsLbGpZOT)
+![instagram](8dsLbGpZOT)
 
-@[instagram](8duyTTpZDr)
+![instagram](8duyTTpZDr)
 
 If you walk over to [Supari Talao](https://goo.gl/maps/Las1k5BHLaK2), you might catch a neighborhood soccer game with a ninja backdrop.
 
-@[instagram](8epBG1JZF9)
+![instagram](8epBG1JZF9)
 
-@[instagram](8dtllQpZAw)
+![instagram](8dtllQpZAw)
 
 Gallery hopping in the Fort precinct can be a hit or miss depending on whether or not the gallery is open that day. Don't be surprised if you have to ring a doorbell to get into some of them. The ones I managed to sneak into were:
 

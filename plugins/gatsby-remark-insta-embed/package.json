@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-remark-insta-embed",
+  "version": "1.0.0",
+  "description": "embed instagram posts into markdown",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Pamela Ocampo <pamela.ocampo@gmail.com> (https://likescoffee.com)",
+  "license": "ISC",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-remark-plugin",
+    "markdown",
+    "instagram"
+  ]
+}

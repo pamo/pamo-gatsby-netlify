@@ -21,38 +21,38 @@ For now, here are a few of my shots linked to the original Instagram entry.
 
 # London, UK
 
-@[instagram](shyhHLJZCt)
+![instagram](shyhHLJZCt)
 
-@[instagram](shvKh4JZND)
+![instagram](shvKh4JZND)
 
-@[instagram](sh052qpZGR)
+![instagram](sh052qpZGR)
 
-@[instagram](sh1FOvJZGf)
+![instagram](sh1FOvJZGf)
 
-@[instagram](shvWFxJZNY)
+![instagram](shvWFxJZNY)
 
 # Los Angeles, CA
 
-@[instagram](t0PNSHJZLY)
+![instagram](t0PNSHJZLY)
 
-@[instagram](t0OPejpZJb)
+![instagram](t0OPejpZJb)
 
-@[instagram](t0Gxd9JZL-)
+![instagram](t0Gxd9JZL-)
 
-@[instagram](twSrYpJZBZ)
+![instagram](twSrYpJZBZ)
 
-@[instagram](twRtrtJZPj)
+![instagram](twRtrtJZPj)
 
 # San Francisco, CA
 
-@[instagram](tYHCsfpZAM)
+![instagram](tYHCsfpZAM)
 
-@[instagram](tQJieIJZOq)
+![instagram](tQJieIJZOq)
 
-@[instagram](sxgS1SJZO9)
+![instagram](sxgS1SJZO9)
 
-@[instagram](skUDOBJZAI)
+![instagram](skUDOBJZAI)
 
 # St. Louis, MO
 
-@[instagram](tRPjRCpZJG)
+![instagram](tRPjRCpZJG)

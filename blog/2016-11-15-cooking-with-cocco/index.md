@@ -77,7 +77,7 @@ With a simple squeeze, Cocco is able to spoon off ground chicken into perfectly 
 
 ### Just like milking a cow.
 
-@[instagram](BMh9E9xgOzR)
+![instagram](BMh9E9xgOzR)
 
 ```grid|3|
 ![Cooked chicken meatballs with scallions and grated ginger.](chicken-meatball.jpg)

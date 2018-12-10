@@ -12,7 +12,7 @@ date: '2016-10-27'
 - Season: Winter
 
 - Reason: [Torres del Paine](http://4sq.com/2a74n7C)!
-  @[instagram](BISYdAXB_a2)
+  ![instagram](BISYdAXB_a2)
 
 ### Local Transportation
 
