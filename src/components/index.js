@@ -7,5 +7,6 @@ import SectionTitle from './SectionTitle';
 import SEO from './SEO';
 import SubLine from './SubLine';
 import Wrapper from './Wrapper';
+import SocialIconBar from './SocialIconBar';
 
-export { Article, Button, Header, Layout, PrevNext, SectionTitle, SEO, SubLine, Wrapper };
+export { Article, Button, Header, Layout, PrevNext, SectionTitle, SEO, SocialIconBar, SubLine, Wrapper };

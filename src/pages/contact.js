@@ -4,7 +4,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
-import { Layout, Wrapper, Header, Button } from 'components';
+import { Button, Header, Layout, SocialIconBar, Wrapper } from 'components';
 import { media } from '../utils/media';
 
 import config from '../../config/SiteConfig';
@@ -51,7 +51,11 @@ const Contact = () => (
         <Link to="/">{config.siteTitle}</Link>
       </Header>
       <Content>
-        <h1>Email Me</h1>
+        <h1>Find me elsewhere</h1>
+
+        <SocialIconBar />
+
+        <h1>Send me a message</h1>
         <form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/success">
           <p>
             <label htmlFor="contact-name">
