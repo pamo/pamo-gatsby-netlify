@@ -88,6 +88,7 @@ export const postQuery = graphql`
         title
         date(formatString: "DD.MM.YYYY")
         category
+        draft
       }
       timeToRead
     }

@@ -13,7 +13,7 @@ date: '2015-11-01'
 - Reason:
   My weekend getaway while I was in Pune for [TWU](/hello-from-pune/) as a trainer.
 
-~[Bombay by the sea](bombay-by-the-sea.jpg)
+![Bombay by the sea](bombay-by-the-sea.jpg)
 
 ### Local Transportation
 
@@ -28,6 +28,7 @@ To get to Mumbai, I used a combination of
 For taking the train or bus, I recommend finding a local to help you make a reservation online and I **definitely** recommend going with another person.
 I did it alone and had a lot of anxiety trying to figure out which platform, what train, which car, what stop, etc.
 Traveling alone is sometimes more fun, but the additional stress of doing it in a country where you don't speak the local language may be more trouble than it's worth.
+
 ![instagram](8aI023pZNO)
 
 #### Getting Around
@@ -38,7 +39,7 @@ Starting near the airport (northern part of Mumbai) and working your way south c
 
 If you do happen to find yourself far north (I ended up in [Jogeshwari East](https://goo.gl/maps/udG6xSwXdwK2) once, for example) another option is to take the local train to [Churchgate](https://en.wikipedia.org/wiki/Churchgate). This is a fun activity in itself and I enjoyed it despite the heat and humidity in the summer.
 
-~[Churchgate at dusk](churchgate-at-night.jpg)
+![Churchgate at dusk](churchgate-at-night.jpg)
 
 I found this fun when I had time to kill and didn't want to take the risk of getting stuck in traffic in a cab. I happened to be in Mumbai during [Ganesh Chaturthi](https://en.wikipedia.org/wiki/Ganesh_Chaturthi) during my first visit and had a lot of delays trying to get through impromptu parties in the street. 💃
 
@@ -52,7 +53,7 @@ The local train ticketing booth is cash only. I recommend you don't bother buyin
 
 It's best to carry a bit of cash, especially if you venture into open air or antique/thrift markets with tasty street food.
 
-~[Street markets with mobs of people buying chaat (snacks)](street-food-mayhem.jpg)
+![Street markets with mobs of people buying chaat (snacks)](street-food-mayhem.jpg)
 
 If you stick to more established restaurants and shops, you shouldn't have any issues using credit cards.
 
