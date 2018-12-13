@@ -3,6 +3,8 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { darken, lighten } from 'polished';
 
+const config = require('../../config/SiteConfig');
+
 const Wrapper = styled.header`
   background: linear-gradient(
     45deg,
@@ -26,6 +28,8 @@ const Content = styled.div`
       opacity: 0.85;
       color: white;
     }
+    font-size: 1.5em;
+    font-family: ${config.headerFontFamily};
   }
 `;
 

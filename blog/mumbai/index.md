@@ -97,7 +97,7 @@ What I've come to notice is that my eating habits in Mumbai reflect my need to h
 - [Saltwater](https://www.zomato.com/SaltWaterCafeBandra) has coffee and what came to be my favorite brunch and lunch menu. e.g. goat cheese and beet salads, charcuterie plates for when I wanted a break from Indian cuisine.
 - I highly recommend getting Kulfi (ice cream) by the kilo at the [New Kulfi Center](https://www.zomato.com/mumbai/new-kulfi-centre-chowpatty). The menu is overwhelming with so many flavors! When you finally order it feels like you're being attended by an ice cream dealer. 😍 Be prepared with cash for this one.
 
-~[Ice cream dealer](kulfi-by-kilo.jpg)
+[Ice cream dealer](kulfi-by-kilo.jpg)
 
 - [White Owl](https://www.zomato.com/thewhiteowl) brewery was an adventure to find inside the hotel-like building it's in, but the beers weren't too bad and the atmosphere was cool to hangout in.
 - [Colaba Social](https://www.zomato.com/ColabaSocial) has tasty bar food and cocktails, but seating was a little difficult to snap up.

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
-import { Layout, Wrapper, Header, Subline, Article, SectionTitle } from 'components';
+import { Layout, Wrapper, Header, SubLine, Article, SectionTitle } from 'components';
 import { media } from '../utils/media';
 import config from '../../config/SiteConfig';
 
@@ -36,9 +36,9 @@ const Category = ({ pageContext: { category }, data: { allMarkdownRemark } }) =>
         </Header>
         <Content>
           <SectionTitle>Category &ndash; {category}</SectionTitle>
-          <Subline sectionTitle>
+          <SubLine sectionTitle>
             {subline} (See <Link to="/categories">all categories</Link>)
-          </Subline>
+          </SubLine>
           {edges.map(post => (
             <Article
               title={post.node.frontmatter.title}

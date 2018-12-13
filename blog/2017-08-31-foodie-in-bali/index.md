@@ -3,7 +3,6 @@ title: Vegan-ish in Bali
 date: '2017-08-31'
 category: Food
 path: 'veganish-bali'
-coverPhoto: 'moksa_main_dish.jpg'
 ---
 
 With a quick glance at the recipes in my post about [cooking in Bali](/bali-cooking/), one might think my culinary adventures in Bali were predominately chicken-based. However, outside of the wedding and cooking class, my most enjoyable meals were vegetarian (and at sometimes vegan). The ubiquity of raw, vegan, or vegetarian restaurant menus in Bali took me by surprise.
@@ -14,7 +13,7 @@ I really missed these friends with every day spent being solo and _veganish_ in 
 
 ## Kismet Cafe
 
-[#### Kismet Cafe on Foursquare](http://4sq.com/1Moio0B)
+#### [Kismet Cafe on Foursquare](http://4sq.com/1Moio0B)
 
 Kismet Cafe was a major stand-out in Ubud. My first visit had me craving their Asian bowl again the next day. By my third visit, they recognized me as a regular, and, for me, it was a great departing meal before flying back home. The restaurant has two floors with open-air seating and it was never too busy. I spent most of my visits devouring their bowls, drinking kombucha or kefir, and sometimes reading or editing photos.
 
@@ -24,14 +23,18 @@ My belly was happy with the volume of the bowls after every visit. These were 'b
 
 #### Round one
 
+```grid|2|
 ![Asian bowl with mixed skewers, clearly superior since it has kimchi](kismet_round_one_asian_bowl.jpg)
 ![Local Kefir with a funky coozie](kismet_round_one_kefir.jpg)
+```
 
-#### Round two
+#### Round Two
 
+```grid|4|
 ![Gave the classic bowl a try](kismet_round_two_classic_bowl.jpg)
 ![Deconstructed skewers](kismet_round_two_classic_deconstructed_skewers.jpg)
 ![House-made ginger and star-anise kombucha](kismet_round_two_ginger_star_anise_kombucha.jpg)
+```
 
 #### Round three
 
@@ -57,7 +60,8 @@ Sometimes when I'm out having a meal by myself I will listen to podcasts and, as
 
 I didn't take long to decide on what I would have after I realized the three-course prix fixe menu was only \$15 USD! Each item on the menu made a clear distinction whether it was raw or heated. I chose a variety of both.
 
-![](moksa_amuse_buche.jpg)
+![amuse buche](moksa_amuse_buche.jpg)
+
 The meal started with an amuse-bouche that consisted of a slice of cucumber with some sort of hummus. Unfortunately I wasn't paying attention when the waitress came by and missed what she said. :see_no_evil:
 
 #### Appetizer
@@ -132,19 +136,19 @@ I had high hopes for Bali Buda given their small market next door that was remin
 
 Ice cream deserves its own section because happiness is unlimited tastings to decide among exotic flavors.
 
-[#### Tukies](http://4sq.com/2opAZCN)
+#### [Tukies](http://4sq.com/2opAZCN)
 
 All coconut menu made it easy to decide.
 
 ![Coconut with roasted coconut crumble](tukies_coconut_icecream.jpg)
 
-[#### Gelato Secrets](http://4sq.com/X4EWdo)
+#### [Gelato Secrets](http://4sq.com/X4EWdo)
 
 Vibrant and funky sorbet flavors made me do a double take. Got the black charcoal and passionfruit cinnamon as my last snack in Ubud.
 
 ![Dragonfruit cinnamon with black charcoal](gelato_secrets_dragonfruit_black_charcoal_cinnamon.jpg)
 
-[#### Gaya Gelato](http://4sq.com/dzbNdN)
+#### [Gaya Gelato](http://4sq.com/dzbNdN)
 
 Dessert with my home stay host after eating from a Padang food stall.
 

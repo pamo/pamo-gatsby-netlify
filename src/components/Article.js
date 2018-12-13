@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import { Link } from 'gatsby';
 import kebabCase from 'lodash/kebabCase';
 
-import { Subline } from 'components';
+import { SubLine } from 'components';
 
 const Post = styled.article`
   display: flex;
@@ -19,7 +19,7 @@ const Title = styled.h2`
   margin-bottom: 0.75rem;
 `;
 
-const Initiale = styled.span`
+const InitialLetter = styled.span`
   position: absolute;
   font-size: 7rem;
   transform: translate(-50%, -50%);
@@ -40,13 +40,13 @@ const Article = ({ title, date, excerpt, slug, timeToRead, category }) => {
   return (
     <Post>
       <Title>
-        <Initiale>{firstChar}</Initiale>
+        <InitialLetter>{firstChar}</InitialLetter>
         <Link to={slug}>{title}</Link>
       </Title>
-      <Subline>
+      <SubLine>
         {date} &mdash; {timeToRead} Min Read &mdash; In{' '}
         <Link to={`/categories/${kebabCase(category)}`}>{category}</Link>
-      </Subline>
+      </SubLine>
       <Excerpt>{excerpt}</Excerpt>
     </Post>
   );
