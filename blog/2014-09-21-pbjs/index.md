@@ -1,7 +1,7 @@
 ---
-category: 'Conferences'
-date: '2014-09-21'
-path: 'pbjs'
+category: "Conferences"
+date: "2014-09-21"
+path: "pbjs"
 title: Powered by Java!..script.
 ---
 

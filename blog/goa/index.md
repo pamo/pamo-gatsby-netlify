@@ -1,8 +1,8 @@
 ---
 title: Visiting Goa in India
-path: 'goa'
+path: "goa"
 category: Travel
-date: '2015-11-01'
+date: "2015-11-01"
 ---
 
 ## Way of Life

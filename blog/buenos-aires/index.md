@@ -1,8 +1,8 @@
 ---
 title: Visiting Buenos Aires in Argentina
-path: 'buenos-aires'
+path: "buenos-aires"
 category: Travel
-date: '2016-06-27'
+date: "2016-06-27"
 ---
 
 ## Way of Life

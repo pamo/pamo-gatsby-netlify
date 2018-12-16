@@ -1,8 +1,8 @@
 ---
 title: Visiting Dubai in the UAE
-path: 'dubai'
+path: "dubai"
 category: Travel
-date: '2015-09-06'
+date: "2015-09-06"
 draft: true
 ---
 

@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
 import kebabCase from 'lodash/kebabCase';
-import { Layout, Wrapper, Header, SectionTitle } from 'components';
+import { Header, Layout, SectionTitle, Wrapper } from 'components';
 import { media } from '../utils/media';
 
 import config from '../../config/SiteConfig';

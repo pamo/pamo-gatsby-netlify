@@ -1,8 +1,8 @@
 ---
 title: Living in Santiago
-path: 'santiago'
+path: "santiago"
 category: Travel
-date: '2016-08-06'
+date: "2016-08-06"
 ---
 
 ## Way of Life

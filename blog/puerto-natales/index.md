@@ -1,8 +1,8 @@
 ---
 title: Visiting Puerto Natales in Chile
-path: 'puerto-natales'
+path: "puerto-natales"
 category: Travel
-date: '2016-10-27'
+date: "2016-10-27"
 ---
 
 ## Way of Life

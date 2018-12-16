@@ -1,7 +1,7 @@
 ---
 title: Valparaiso
 category: Travel
-date: '2015-11-06'
+date: "2015-11-06"
 ---
 
 ## Way of Life

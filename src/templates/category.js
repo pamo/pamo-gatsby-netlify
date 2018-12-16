@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
-import { Layout, Wrapper, Header, SubLine, Article, SectionTitle } from 'components';
+import { Article, Header, Layout, SectionTitle, SubLine, Wrapper } from 'components';
 import { media } from '../utils/media';
 import config from '../../config/SiteConfig';
 

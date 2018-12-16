@@ -1,7 +1,7 @@
 ---
-category: 'Programming'
-date: '2016-05-01'
-path: 'snap-ci-github'
+category: "Programming"
+date: "2016-05-01"
+path: "snap-ci-github"
 title: Automated SnapCI Deploys with Github Pages
 ---
 

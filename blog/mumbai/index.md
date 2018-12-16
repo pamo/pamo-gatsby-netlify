@@ -1,8 +1,8 @@
 ---
 title: Visiting Mumbai in India
-path: 'mumbai'
+path: "mumbai"
 category: Travel
-date: '2015-11-01'
+date: "2015-11-01"
 ---
 
 ## Way of Life

@@ -1,7 +1,7 @@
 ---
-category: 'Food'
-date: '2016-11-16'
-path: 'cooking-with-cocco'
+category: "Food"
+date: "2016-11-16"
+path: "cooking-with-cocco"
 title: Cooking with Cocco
 ---
 
