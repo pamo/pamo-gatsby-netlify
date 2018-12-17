@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
 import { Article, Button, Layout, SectionTitle, Wrapper } from 'components';
+import theme from '../../config/Theme';
 import { media } from '../utils/media';
 
 const Content = styled.div`
@@ -35,6 +36,21 @@ const Hero = styled.div`
       font-size: 1.45rem;
     }
   }
+  p a, p a:visited {
+    text-shadow: 0.03em 0 #fff, -0.03em 0 #fff, 0 0.03em #fff, 0 -0.03em #fff, 0.06em 0 #fff, -0.06em 0 #fff, 0.09em 0 #fff, -0.09em 0 #fff, 0.12em 0 #fff, -0.12em 0 #fff, 0.15em 0 #fff, -0.15em 0 #fff;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 1px, ${theme.colors.primary} 1px, ${
+  theme.colors.primary
+} 2px, rgba(0, 0, 0, 0) 2px);
+    color: ${theme.colors.primary};
+    text-decoration: none;
+  }
+  p a:hover, p a:active {
+    color: ${theme.colors.primary};
+    transition: all ${theme.transitions.normal};
+    text-shadow: none;
+    text-decoration: none;
+    background-image: none;
+  },
 `;
 
 const IndexPage = ({

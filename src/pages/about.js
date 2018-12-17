@@ -3,6 +3,7 @@ import Helmet from 'react-helmet';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
 import { Header, Layout, Wrapper } from 'components';
+import theme from '../../config/Theme';
 import { media } from '../utils/media';
 
 import config from '../../config/SiteConfig';
@@ -21,6 +22,21 @@ const Content = styled.div`
   @media ${media.phone} {
     padding: 2rem 1.5rem;
   }
+  a, a:visited {
+    text-shadow: 0.03em 0 #fff, -0.03em 0 #fff, 0 0.03em #fff, 0 -0.03em #fff, 0.06em 0 #fff, -0.06em 0 #fff, 0.09em 0 #fff, -0.09em 0 #fff, 0.12em 0 #fff, -0.12em 0 #fff, 0.15em 0 #fff, -0.15em 0 #fff;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 1px, ${theme.colors.primary} 1px, ${
+  theme.colors.primary
+} 2px, rgba(0, 0, 0, 0) 2px);
+    color: ${theme.colors.primary};
+    text-decoration: none;
+  }
+   a:hover, a:active {
+    color: ${theme.colors.primary};
+    transition: all ${theme.transitions.normal};
+    text-shadow: none;
+    text-decoration: none;
+    background-image: none;
+  },
 `;
 
 const BikePhotos = styled.div`
@@ -48,7 +64,7 @@ const About = () => (
           things.
         </p>
         <p>
-          With the help of a
+          With the help of a{' '}
           <a
             href="http://www.flask.com/the-art-of-the-disco-nap-sleeping-between-happy-hour-and-a-night-out/"
             target="_blank"
