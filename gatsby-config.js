@@ -9,6 +9,16 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-47277958-1',
+        head: false,
+        respectDNT: true,
+        optimizeId: 'GTM-NTD45C7',
+        cookieDomain: 'likescoffee.com',
+      },
+    },
     'gatsby-plugin-styled-components',
     {
       resolve: 'gatsby-source-filesystem',
