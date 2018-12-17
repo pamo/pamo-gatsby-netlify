@@ -74,9 +74,9 @@ const About = () => (
           , you can sometimes find me at one of many SF concert venues in search of beats that give me frisson.
         </p>
         <BikePhotos>
-          <img src="images/bike_063018.png" />
-          <img src="images/bike_092418.png" />
-          <img src="images/bike_120418.png" />
+          <img src="images/bike_063018.png" alt="teal bike, teal puffy jacket" />
+          <img src="images/bike_092418.png" alt="teal bike, teal respiration mask" />
+          <img src="images/bike_120418.png" alt="teal bike, sky blue rain jacket" />
         </BikePhotos>
         <p>I am also known to wear clothing that matches my bike.</p>
       </Content>
