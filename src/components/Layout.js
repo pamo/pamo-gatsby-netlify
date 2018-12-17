@@ -4,7 +4,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { StaticQuery, graphql } from 'gatsby';
 import styled, { ThemeProvider, createGlobalStyle } from 'styled-components';
-import { SEO } from 'components';
+import { SEO, SocialIconBar } from 'components';
 import theme from '../../config/Theme';
 import { media } from '../utils/media';
 
@@ -87,6 +87,7 @@ const Layout = ({ children }) => (
             &copy; 2018 by Pamela Ocampo. All rights reserved. <br />
             <a href="https://github.com/pamo">GitHub</a> <br />
             <span>Last build: {data.site.buildTime}</span>
+            <SocialIconBar />
           </Footer>
         </React.Fragment>
       </ThemeProvider>
