@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import { StaticQuery, graphql } from 'gatsby';
 import styled, { ThemeProvider, createGlobalStyle } from 'styled-components';
 import { SEO, SocialIconBar } from 'components';
-import theme from '../../config/Theme';
+import { theme } from '../../config/Theme';
 import { media } from '../utils/media';
 
 const GlobalStyle = createGlobalStyle`
@@ -36,7 +36,6 @@ const GlobalStyle = createGlobalStyle`
     font-style: italic;
     position: relative;
   }
-
   blockquote:before {
     content: "";
     position: absolute;

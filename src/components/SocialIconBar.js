@@ -12,7 +12,7 @@ import {
   FaTwitter as Twitter,
 } from 'react-icons/fa';
 
-import theme from '../../config/Theme';
+import { theme } from '../../config/Theme';
 
 const Icons = styled.div`
   grid-column: 2;

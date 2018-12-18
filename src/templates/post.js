@@ -8,6 +8,7 @@ import { Header, Layout, PrevNext, SEO, SubLine, Wrapper } from 'components';
 import { media } from '../utils/media';
 import config from '../../config/SiteConfig';
 import '../utils/prismjs-theme.css';
+import { StyledLinks } from '../../config/Theme';
 
 const Content = styled.article`
   grid-column: 2;
@@ -23,6 +24,10 @@ const Content = styled.article`
   }
   @media ${media.phone} {
     padding: 2rem 1.5rem;
+  }
+  ${StyledLinks}
+  a.anchor {
+    background-image: none;
   }
 `;
 
