@@ -74,7 +74,7 @@ export const postQuery = graphql`
   query CategoryPage($category: String!) {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { category: { eq: $category } } }
+      filter: { frontmatter: { category: { eq: $category }, draft: { eq: null } } }
     ) {
       totalCount
       edges {
