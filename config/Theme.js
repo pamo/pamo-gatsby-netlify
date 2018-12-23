@@ -26,7 +26,7 @@ export const theme = {
 };
 
 export const StyledLinks = `
-  a, a:visited {
+  a:not(.gatsby-resp-image-link), a:visited:not(.gatsby-resp-image-link){
     text-shadow: 0.03em 0 #fff, -0.03em 0 #fff, 0 0.03em #fff, 0 -0.03em #fff, 0.06em 0 #fff, -0.06em 0 #fff, 0.09em 0 #fff, -0.09em 0 #fff, 0.12em 0 #fff, -0.12em 0 #fff, 0.15em 0 #fff, -0.15em 0 #fff;
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 1px, ${theme.colors.primary} 1px, ${
   theme.colors.primary
@@ -34,7 +34,7 @@ export const StyledLinks = `
     color: ${theme.colors.primary};
     text-decoration: none;
   }
-  a:hover, a:active {
+  a:hover:not(.gatsby-resp-image-link), a:active:not(.gatsby-resp-image-link) {
    color: ${theme.colors.primary};
    transition: all ${theme.transitions.normal};
    text-shadow: none;
