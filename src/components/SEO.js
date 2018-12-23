@@ -15,8 +15,8 @@ const SEO = props => {
     const postMeta = postNode.frontmatter;
     title = postMeta.title; // eslint-disable-line prefer-destructuring
     description = postNode.excerpt;
-    image = config.siteBanner;
     postURL = config.siteUrl + realPrefix + postPath;
+    image = `${postPath}/twitter-card.jpg`;
   } else {
     title = config.siteTitle;
     description = config.siteDescription;

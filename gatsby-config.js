@@ -5,6 +5,7 @@ const pathPrefix = config.pathPrefix === '/' ? '' : config.pathPrefix;
 module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
+    title: 'Likes Coffee',
     siteUrl: config.siteUrl + pathPrefix,
   },
   plugins: [
