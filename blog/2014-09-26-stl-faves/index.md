@@ -1,8 +1,9 @@
 ---
-category: "Conferences"
-date: "2014-09-26"
-path: "digesting-strange-loop"
+category: 'Conferences'
+date: '2014-09-26'
+path: 'digesting-strange-loop'
 title: Digesting Strange Loop
+cover: 'strange_loop_party.jpg'
 ---
 
 Wow. Wow.

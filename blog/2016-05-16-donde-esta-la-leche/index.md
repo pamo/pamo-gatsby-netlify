@@ -1,8 +1,9 @@
 ---
-category: "Food"
-date: "2016-05-16T12:17:59.821Z"
-path: "donde-esta-la-leche"
+category: 'Food'
+date: '2016-05-16T12:17:59.821Z'
+path: 'donde-esta-la-leche'
 title: ¿Dónde Está la Leche?
+cover: 'milk-shelves.jpg'
 ---
 
 I love dairy. Ice cream, ALL the cheese, eggs, Greek yogurt -- all of it.

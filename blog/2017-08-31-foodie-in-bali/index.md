@@ -1,8 +1,9 @@
 ---
 title: Vegan-ish in Bali
-date: "2017-08-31"
+date: '2017-08-31'
 category: Food
-path: "veganish-bali"
+path: 'veganish-bali'
+cover: 'moksa_main_dish.jpg'
 ---
 
 With a quick glance at the recipes in my post about [cooking in Bali](/bali-cooking/), one might think my culinary adventures in Bali were predominately chicken-based. However, outside of the wedding and cooking class, my most enjoyable meals were vegetarian (and at sometimes vegan). The ubiquity of raw, vegan, or vegetarian restaurant menus in Bali took me by surprise.
@@ -46,7 +47,9 @@ My belly was happy with the volume of the bowls after every visit. These were 'b
 
 Moksa was a special trip in many ways. My first attempt to reach the restaurant from my home-stay on foot was a failure that lead me to a dead-end in a few rice fields, but a cute reward was getting to watch ducks run around one of the fields like lemmings following the flock's collective direction.
 
-[![duck duck go](duck_lemmings.jpg)](https://www.instagram.com/p/BYCeeVYAH34)
+![duck duck go](duck_lemmings.jpg)
+
+![instagram](https://www.instagram.com/p/BYCeeVYAH34)
 
 The route I ended up taking was dangerous because I was walking on a road with a small shoulder with heavy evening traffic. I decided there was no way I would walk back in the darkness and would find a way to call a taxi to pick me up.
 

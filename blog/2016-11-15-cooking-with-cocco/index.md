@@ -1,8 +1,9 @@
 ---
-category: "Food"
-date: "2016-11-16"
-path: "cooking-with-cocco"
+category: 'Food'
+date: '2016-11-16'
+path: 'cooking-with-cocco'
 title: Cooking with Cocco
+cover: 'magnolia-leaf-instruction.jpg'
 ---
 
 It's not every day I take cooking classes on a whim, and definitely not when [the cost](https://www.eventbrite.com/e/cooking-classes-with-cocco-nomura-tickets-28903389817#) is more than what I would ever pay for a dinner, but cooking with Cocco at Izakaya Rintaro felt very special and I'm happy to have taken part.

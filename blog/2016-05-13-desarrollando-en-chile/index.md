@@ -1,8 +1,9 @@
 ---
-category: "Travel"
-date: "2016-05-13"
-path: "desarrollando-en-chile"
+category: 'Travel'
+date: '2016-05-13'
+path: 'desarrollando-en-chile'
 title: Desarrollando en Chile
+cover: 'snow-mountains.jpg'
 ---
 
 My latest ThoughtWorks adventure has taken me to Santiago, Chile.
