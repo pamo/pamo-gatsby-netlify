@@ -1,9 +1,9 @@
 ---
 title: Mini Vacation in San Pedro de Atacama, Chile
-path: 'san-pedro-de-atacama'
+path: "san-pedro-de-atacama"
 category: Travel
-date: '2016-11-01'
-cover: 'take-my-photo.jpg'
+date: "2016-11-01"
+cover: "./take-my-photo.jpg"
 ---
 
 ## Way of Life

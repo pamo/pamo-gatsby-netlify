@@ -1,9 +1,9 @@
 ---
-category: 'Food'
-date: '2016-04-04'
-path: 'melbourne-eggsposure'
+category: "Food"
+date: "2016-04-04"
+path: "melbourne-eggsposure"
 title: Melbourne Eggsposure
-cover: 'fitzrovia-yolk-porn.jpg'
+cover: "./fitzrovia-yolk-porn.jpg"
 ---
 
 I'd like to preface this with a thanks to the series of circumstances that have given me the opportunity to make friends around the world.

@@ -1,9 +1,9 @@
 ---
-category: 'Travel'
-date: '2015-08-27'
-path: 'hitchhiking'
-title: 'Hitchhiking in the Modern Age'
-cover: '6.jpg'
+category: "Travel"
+date: "2015-08-27"
+path: "hitchhiking"
+title: "Hitchhiking in the Modern Age"
+cover: "./6.jpg"
 ---
 
 I'm beginning to get more comfortable in traveling alone during my time in India. For the most part, I plan out how to get to and from the destination and let everything else fall into place.

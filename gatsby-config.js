@@ -9,6 +9,7 @@ module.exports = {
     siteUrl: config.siteUrl + pathPrefix,
   },
   plugins: [
+    'gatsby-transformer-sharp',
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -34,7 +35,6 @@ module.exports = {
         plugins: [
           `gatsby-remark-smartypants`,
           `gatsby-remark-emoji-unicode`,
-          `gatsby-remark-social-cards`,
           {
             resolve: 'gatsby-remark-images-grid',
             options: {

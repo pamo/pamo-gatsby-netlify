@@ -1,9 +1,9 @@
 ---
-category: 'Photography'
-date: '2016-03-07'
-path: 'mission-street-photography'
-title: 'Street Photography in the Mission'
-cover: 'glide.jpg'
+category: "Photography"
+date: "2016-03-07"
+path: "mission-street-photography"
+title: "Street Photography in the Mission"
+cover: "./glide.jpg"
 ---
 
 Street photography has always been an activity that I approach with hesitation.

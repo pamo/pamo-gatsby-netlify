@@ -1,9 +1,9 @@
 ---
 title: Visiting Mumbai in India
-path: 'mumbai'
+path: "mumbai"
 category: Travel
-date: '2015-11-01'
-cover: 'street-food-mayhem.jpg'
+date: "2015-11-01"
+cover: "./street-food-mayhem.jpg"
 ---
 
 ## Way of Life

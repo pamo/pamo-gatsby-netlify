@@ -1,9 +1,9 @@
 ---
 title: Vegan-ish in Bali
-date: '2017-08-31'
+date: "2017-08-31"
 category: Food
-path: 'veganish-bali'
-cover: 'moksa_main_dish.jpg'
+path: "veganish-bali"
+cover: "./moksa_main_dish.jpg"
 ---
 
 With a quick glance at the recipes in my post about [cooking in Bali](/bali-cooking/), one might think my culinary adventures in Bali were predominately chicken-based. However, outside of the wedding and cooking class, my most enjoyable meals were vegetarian (and at sometimes vegan). The ubiquity of raw, vegan, or vegetarian restaurant menus in Bali took me by surprise.

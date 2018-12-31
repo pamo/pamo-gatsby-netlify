@@ -1,9 +1,9 @@
 ---
-category: 'Food'
-date: '2016-04-01'
-path: 'spice-night'
+category: "Food"
+date: "2016-04-01"
+path: "spice-night"
 title: Top Shelf Spice Night
-cover: 'badri-mortar-2.jpg'
+cover: "./badri-mortar-2.jpg"
 ---
 
 The San Francisco ThoughtWorks office has a lot of foodies and food fans that like to get together for "ThoughtForker" gatherings.

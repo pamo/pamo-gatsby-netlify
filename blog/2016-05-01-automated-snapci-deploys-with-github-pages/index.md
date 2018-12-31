@@ -1,9 +1,9 @@
 ---
-category: 'Programming'
-date: '2016-05-01'
-path: 'snap-ci-github'
+category: "Programming"
+date: "2016-05-01"
+path: "snap-ci-github"
 title: Automated SnapCI Deploys with Github Pages
-cover: 'failed-deploy.png'
+cover: "./failed-deploy.png"
 ---
 
 I'm currently contributing to [Fun Retrospectives](http://funretro.github.io/distributed/) on the ["Front-End Ops"](https://www.smashingmagazine.com/2013/06/front-end-ops/) front.

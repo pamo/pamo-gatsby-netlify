@@ -1,9 +1,9 @@
 ---
 title: Balinese Kitchen
-date: '2017-08-27'
+date: "2017-08-27"
 category: Food
-path: 'bali-cooking'
-cover: 'prep_slice_bumbu.jpg'
+path: "bali-cooking"
+cover: "./prep_slice_bumbu.jpg"
 ---
 
 When it comes to traveling, experiencing a new culture through its food is a given. During my search for things to do (i.e. eat) in Bali, I latched on to the description for a traditional cuisine cooking class:

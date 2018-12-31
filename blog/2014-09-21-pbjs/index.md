@@ -1,9 +1,9 @@
 ---
-category: 'Conferences'
-date: '2014-09-21'
-path: 'pbjs'
-title: Powered by Java!..script.
-cover: 'signage.jpg'
+category: "Conferences"
+date: "2014-09-21"
+path: "pbjs"
+title: "Powered by Java!..script."
+cover: "./signage.jpg"
 ---
 
 ![Java -- The Future](./signage.jpg)

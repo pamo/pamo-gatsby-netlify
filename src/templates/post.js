@@ -91,6 +91,16 @@ export const postQuery = graphql`
       excerpt
       frontmatter {
         title
+        cover {
+          childImageSharp {
+            resolutions(width: 400) {
+              width
+              height
+              src
+              srcSet
+            }
+          }
+        }
         date(formatString: "DD.MM.YYYY")
         category
         draft
