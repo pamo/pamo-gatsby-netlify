@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/pamo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://likescoffee.com
+  * I am pamo (https://keybase.io/pamo) on keybase.
+  * I have a public key with fingerprint 10FA 0C3B 3174 7EF5 27F7  2AB8 B97D C3E4 B12C BB74
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010121135649d015317b17415d79a7de1d2c12a78ea0237abf512aecbb5f59a331fc0a",
+      "fingerprint": "10fa0c3b31747ef527f72ab8b97dc3e4b12cbb74",
+      "host": "keybase.io",
+      "key_id": "b97dc3e4b12cbb74",
+      "kid": "010121135649d015317b17415d79a7de1d2c12a78ea0237abf512aecbb5f59a331fc0a",
+      "uid": "b0da8734d2e953d244dc401b6eca3b00",
+      "username": "pamo"
+    },
+    "merkle_root": {
+      "ctime": 1546372431,
+      "hash_meta": "6268c81872ec3060bcf03ce51f46db02ed9fc2d6d9953c4078bdffc41363b1c8",
+      "seqno": 4216424
+    },
+    "revoke": {
+      "sig_ids": [
+        "f678b249d51178a14ffa47b8485cbc5803587017c16c7291d74a1175e59143b50f"
+      ]
+    },
+    "service": {
+      "hostname": "likescoffee.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1546372477,
+  "expire_in": 157680000,
+  "prev": "ff88e62c189b1b2d9570a56b97ab71d9055489222a6ac3a1d9a7eb1308c7059e",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMK6AnicrVNriFVFAN5Vs7oZuUKiQbqeIAn3rvM8M+fWZi8whTR/2INducxz7+k+
+zvWcc1fN1iDRH72VwKVyuWARgkhFRiWtIRWxQtcKe1BYYhQbrWRraKZLczYjiH52
+/hxm5nvNNzPvXz29Ldc+uXTHjDl3tM9rP3K40WjrW/LB4GZPRnqTV9jslc3Uz1S0
+SdJiOdRewQMQQAQhpj4JNIAUQyYhI5BqFgimDdRIQSQYNwIgzIS01A2NkpJaGgiM
+oVVAeF2eDWv9Jq7HYS11shBYARSWTo4wYyliliEhuQyYVtgQCZGTYMQRS1GSMVw4
+KRLTHUZuzg2KU/H+A/8/52785QO04AwTjUxAsUaEaEUAlL5RAksAMmBi4pqoGoeu
+i2rkDXZ5VROXK6YYR1GaFavSMFuGlPiYIYKh25xISsWqSYVj+cjnikPOkFEY+EAq
+C7AyFFriawmQ0YFVSPs6cBGcO+NSW6sIxD6WUHGXITHra5FXIAj6BBGXIDYDUdlk
+5knY7ypLvEKvZ31HRa4XCiHjAhJrBWGSE06VVJQDTDkDkCnoK4YCqBkRDkkNDSDB
+kgLrrRvMzOKBUE2JZ2d0ae+VsGwSFVlrTLeKqi5UPY7SSEUVt1hK03pSyKpJN9Uz
+9AYji5d0ijKsaXdJHGPAxEkY1VxVDvmv1hjr8szGehibYpghKPM5cF/mYwacpLWc
+G9+dLg8klEgHlAFBfXdThGRQB4BSwgOEkPCFwsLNCGYkxIArBmhg/qkRBy6n6Hea
+rryaSBux8QYPv9c3o6091zbzsmnZ62nLXTn77zcVrrx8ctkXrYePvTl+bNe5A9e+
+2x8NdfQuar4+dLJ541W/95KlX5+ZNff4q8809t6Zm1w+d8Uj+wpr5sXbWmtXb+j8
++Oab+lp7FuT3Tn61+5uJCx/23PrsWxeXf/9RMn3m9rNPdVyxceLB0TOidsuKrau3
+HF948MTt9LN7Luz79pWLi4dHjnQvzI9tHTlw8tQPn7xTurvnpW315ov7Xz7NO0cX
+J+ev8757YXjO9ueefzRX8W9bdPToG+N78o/PGlm3/+lV4/bgQ/d+nnSUGp9OnPvt
+ycdu2Hn2p/k50xyG430/rzm/69T91fzor9PGVvZcf6J5jRg71HyihQ51nm7d99pd
+yx7YMXtnfv3QL6sW/KHf3vLlbvvj8Pw/AY2ohEo=
+=RGHk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pamo
+
+==================================================================
+
