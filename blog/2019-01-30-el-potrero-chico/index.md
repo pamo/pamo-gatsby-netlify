@@ -1,7 +1,6 @@
 ---
 category: Travel
 date: '2019-01-31T04:52:39.380Z'
-draft: true
 title: El Potrero Chico
 path: el-potrero-chico
 ---
