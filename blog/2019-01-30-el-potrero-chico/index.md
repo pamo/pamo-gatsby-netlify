@@ -100,11 +100,12 @@ Getting to and from EPC was a breeze after I found the proper resources and info
 
 ### Airport Transportation
 
-You can arrange a taxi with La Posada along with your reservation. The price of one way can be a sticker shock at around \$60 excluding tolls. You can also find locals that run their own taxi services such as [joe]() and [portrero chico guides]().
+You can arrange a taxi with La Posada along with your reservation. The price of one way can be a sticker shock at around \$60 excluding tolls. You can also find locals that run their own taxi services such as [Joe Bert Guadarrama (Pop Joe's Climbing Shuttle)
+](https://www.facebook.com/POPJOESCLIMBINGSHUTTLE/) and [Portrero Chico Climbing Guides](https://potrerochico.com/shuttle/).
 
 ### Meeting Other Climbers / Asking Questions in Advance
 
-There's a Facebook group called [name of the group]() where and local businesses announce events (such as movie, karaeoke, or salsa nights). For the most part, posts are from climbers putting in requests for partners, gear for sale (to lighten the load back home), or lost and found gear. Following along with the discourse in the group made me feel well informed about what was going on in EPC before I arrived.
+There's a Facebook group called [Potrero Chico Rock Climbing](https://www.facebook.com/groups/potrerochicorockclimbing/) where and local businesses announce events (such as movie, karaeoke, or salsa nights). For the most part, posts are from climbers putting in requests for partners, gear for sale (to lighten the load back home), or lost and found gear. Following along with the discourse in the group made me feel well informed about what was going on in EPC before I arrived.
 
 ### The Approach
 
@@ -114,6 +115,6 @@ I expected the approach to be a hike, but if you happen to hitch a ride, most of
 
 The town of Hidalgo has many restaurants and grocery stores where you can get food, coffee, and cash. Most people are nice enough to give you a ride if you happen to catch their eye as they drive by, otherwise it's a 40+ minute walk down the hill and another 40+ minute walk up the hill.
 
-I almost made that walk when I had dinner next door on my first night at [Leo's Tacos & Grill](). I walked under the metal roof and asked if he took credit cards. Leo nodded no, but that I could pay him back some other time. After a filling homestyle meal, I was determined to pay him back the next day and eat dinner there again.
+I almost made that walk when I had dinner next door on my first night at [Leo's Tacos Grill](https://www.facebook.com/LEOS-TACOS-GRILL-791284507672369/). I walked under the metal roof and asked if he took credit cards. Leo nodded no, but that I could pay him back some other time. After a filling homestyle meal, I was determined to pay him back the next day and eat dinner there again.
 
 I happened to have \$20 cash in USD and walked over to the main office to see if I could get someone to give me a ride into town from La Posada. On walking in, I noticed a sign that said they exchange dollars for Mexican pesos. 🙌🏼 No need to go into town.
