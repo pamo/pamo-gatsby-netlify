@@ -3,6 +3,7 @@ category: Travel
 date: '2019-01-31T04:52:39.380Z'
 title: El Potrero Chico
 path: el-potrero-chico
+cover: './view_of_canyon.jpg'
 ---
 
 ## The Little Corral
@@ -73,7 +74,13 @@ During all of my meals, I was accompanied by several older climbers from Seattle
 
 I was completely wrong. Multipitch is amazing. I want to do it again and again and again. There was no time to be scared of heights after I started my second pitch because the canyon was too beautiful to keep my eyes on the wall.
 
+![Ascending](at_the_top.jpg)
+
+![stoked](first_pitch_completed_stoked.jpg)
+
 We did end up doing Yankee Clipper,but we did not do the full 15 pitches. I am proud of the 9 pitches we did complete and having a patient guide to explain every step of the process to me as well as some of the history about climbing in EPC and future developments of keeping it safe for people to enjoy.
+
+![Commemorative plate for Ed Wright](commemorative_plate_cropped.jpg)
 
 Despite feeling like I didn't get enough sleep, climbing on limestone felt geat. I found myself [_mantling_](https://frictionlabs.com/blog/how-it-works-the-mantle) for a majority of my moves which left me with a lot of energy in the tank for subsequent pitches and confident in being able to find the right foot hold to reach up to holds that felt too far away. Sticky feet are so nice :ok_hand:. The sun was on our backs for major part of the day with a breeze that made climbing in the sun a pleasant experience. With every pitch, however, my Miuras felt less like gloves and more like hot irons suffocating my feet from getting proper circulation to my toes. Exciting, right?
 
@@ -83,6 +90,8 @@ I couldn't wait to get to the 9th pitch so that I could switch into slip-on snea
 
 I tried to not think too much about how we would get down. This was my first multipitch AND rappelling experience. From other stories, I'd known that rapelling was the cause of a lot of climbing accidents so I was immediately apprehensive as we started to set up our gear to start the rappel. My guide would go first and wait for me on the 8th pitch below. He asked me if I had any questions and I repeated everything I needed to do before lowering. Clean the anchor, clean my Personal Anchor System (PAS), clean my backup PAS, push the prusik down. Most importantly, trust the system. I failed to notice a critical step in the whole process. Push the rope towards the wall to allow the ATC to slide down the rope. 🤦🏻‍♀️
 
+![Calming my nerves with the view](view_from_the_ninth_pitch.jpg)
+
 After yelling down to my guide that the ATC was stuck and questioning whether the orientation of the ATC was at fault, I clipped my PASs back in and waited patiently as clouds rolled in and the wind picked up. This would be the second time I would intentionally open the breathe app on my Apple Watch in the last two weeks to _calm the fuck down_.
 
 My guide re-appeared over the ledge we had been standing on together 30 minutes before and began inspecting the system. He verbally walked me through the alternative approach we would be taking, the simul-rappel,
@@ -90,9 +99,13 @@ and pushed into the rope to see what the issue with the ATC may be. When he did 
 
 The simul-rappel made me feel much more comfortable with what we were doing. We worked as a team to lower, counter-balancing each other along the way and flaking the rope together at the next anchor to begin lowering again.
 
+![Final Rappel](final_rappel.jpg)
+
 The final pitch I was to go alone and use the solo rappel technique, by this time I was a pro and comfortable with what I was doing. The first few steps on flat land felt weird!
 
 In short, I'm already looking forward to my next multipitch experience and second vist to El Potrero Chico to try some of the other moderate routes in the area.
+
+![View of the Canyon](view_of_canyon.jpg)
 
 ## EPC Beta
 
