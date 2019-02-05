@@ -74,9 +74,10 @@ During all of my meals, I was accompanied by several older climbers from Seattle
 
 I was completely wrong. Multipitch is amazing. I want to do it again and again and again. There was no time to be scared of heights after I started my second pitch because the canyon was too beautiful to keep my eyes on the wall.
 
+```grid|3|
 ![Ascending](at_the_top.jpg)
-
 ![stoked](first_pitch_completed_stoked.jpg)
+```
 
 We did end up doing Yankee Clipper,but we did not do the full 15 pitches. I am proud of the 9 pitches we did complete and having a patient guide to explain every step of the process to me as well as some of the history about climbing in EPC and future developments of keeping it safe for people to enjoy.
 
@@ -123,6 +124,18 @@ There's a Facebook group called [Potrero Chico Rock Climbing](https://www.facebo
 ### The Approach
 
 I expected the approach to be a hike, but if you happen to hitch a ride, most of the approaches are less than 60 seconds from where you park. If you stay at La Posada or any of the casitas outside of the park, you're only a short walk away on a paved road. You don't really need any hiking gear if you plan on just climbing.
+
+### Hikes
+
+Given the short trip and my lack of experience and gear, I opted to go on a hike the second day I stayed at La Posada. The hike is called [El Toro](https://www.wikiloc.com/hiking-trails/el-toro-potrero-chico-16258416), and I had heard an older couple talking about their experience with it the night before while having dinner at Leo's. They looked absolutely exhausted, but where happy to have done it for the views. At the time, I wasn't aware that they were describing the hike I would be doing the next day.
+
+[Rudy and Karla](https://potrerochico.com) were very helpful in driving me to the trailhead that morning, without them I would have probably never found it. While we walked to the start of the trail, I mentioned the couple the night before talking about El Toro and Rudy replied, "yup this is it."
+
+As I started to disappear into the bushes, Rudy warned me that it was easy to lose sight of the trail in the first 5 minutes or so, but that I would eventually find the trail and the rest of the hike would be well marked. He was totally right, and I have several scrapes on my arms and legs to prove my attempt to bushwhack my way to any cairn I could find.
+
+![The route to El Toro and back to La Posada](el_toro_hike.png)
+
+The hike was way more exhausting than climbing for the 2+ miles straight up a mostly exposed trail lined with cacti and thorny bushes and 2+ miles back down. The steepest parts of the trail were covered in small gravel rocks, making it difficult to just run down. Each step felt precarious for me, but was often in vain when a rock rolled either of my feet out from under me.
 
 ### Shop & Dine
 
