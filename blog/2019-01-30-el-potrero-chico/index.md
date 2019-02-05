@@ -16,7 +16,7 @@ There was no hesitation in their response. If I wanted to go climbing, I should 
 
 I immediately added it to my bucket list Trello board when I got back home from my Zion adventure.
 
-Since then I've floated the idea of climbing in Mexico to several friends but never really acted on getting the ball rolling. We've been outdoors several times in California since then. March 2018 was the first time we visited Bishop, CA, for the [Women's Climbing Festival](http://flashfoxy.com/wcf-bishop) and were enamored with the beauty of the land as well as approachability of the climbing. We returned again for #Climbsgiving in November 2018 to give some outdoor leading a go in Owens River Gorge, as well as paying a visit to Alabama Hills.
+Since then I've floated the idea of climbing in Mexico to several friends but never really acted on getting the ball rolling. We've been outdoors several times in California since then. March 2018 was the first time we visited Bishop, CA, for the [Women's Climbing Festival](http://flashfoxy.com/wcf-bishop) and were enamored with the beauty of the land as well as accessibility of the climbing. We returned again for #Climbsgiving in November 2018 to give some outdoor leading a go in Owens River Gorge, as well as paying a visit to Alabama Hills.
 
 It's always a joy to get out of the city and share incredible experiences with friends outdoors.
 
@@ -28,15 +28,15 @@ The travel bug started me getting back to researching trips to El Potrero Chico.
 
 I almost let the plan fall through but I kept the flight itinerary opened in a tab and information about climbing guides in another. I started _talking_ about the idea of going to Mexico to several people. My engineering manager, friends, friends of friends. There was a little voice in the back of my head that kept saying: just book the flight.
 
-The day [this article about millenial burnout](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work) began to become viral on Twitter, I started to read it and got to the graphic of a rope on the brink of breaking when I thought, _just freaking buy the flight_. I stopped reading the article because I couldn't identify with it as a person of color, but the thought of feeling burned out alone drove me to realize I needed to get away by myself.
+The day [this article about millennial burnout](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work) began to become viral on Twitter, I started to read it and got to the graphic of a rope on the brink of breaking when I thought, _just freaking buy the flight_. I stopped reading the article because I couldn't identify with it as a person of color, but the thought of feeling burned out alone drove me to realize I needed to get away by myself.
 
 So I booked the flight and immediately felt the rush of adrenaline. The last time I was partially alone for a wedding I went to in Bali in August 2018. I started to remember the agony and excitement I used to feel when accepting the request to travel alone as a software consultant. The rush was winning at this point and the plan was in motion. I quickly tabbed over to [Potrero Chico Climbing Guides](https://potrerochico.com/prices/) and booked a day of multi-pitch climbing. Who was I?? Just a few weeks before I laughed at the thought of doing any sort of big wall climbing when I met someone at Dogpatch Boulders visiting from Mexico City and here I was booking a trip to go multi-pitch climbing only a few weeks out. The travel bug is strong, there was no time to think about and be terrified by how high I could possibly get.
 
-Having booked a flight and a guide, I remebered I needed a place to stay. I am swooned by nice web design so [La Posada](http://www.elpotrerochico.mx/) charmed me immediately. I put in a request for a private room. I wasn't sure how the temperatures would be and didn't want to find myself freezing in a tent under the Mexican skies.
+Having booked a flight and a guide, I remembered I needed a place to stay. I am swooned by nice web design so [La Posada](http://www.elpotrerochico.mx/) charmed me immediately. I put in a request for a private room. I wasn't sure how the temperatures would be and didn't want to find myself freezing in a tent under the Mexican skies.
 
 ## El Jungla de Asfalto
 
-The next step was to vary the trip as a whole and spend some time in the urban jungle. Having read [_Down and Delirious in Mexico City_](https://www.goodreads.com/book/show/9733238-down-and-delirious-in-mexico-city) in 2015 gave me some insights into where I would go if I were to want to spend some time in "El DF". I scoured Airbnb for a room in [Condesa](https://en.wikipedia.org/wiki/Condesa). I booked a small room with a host that ecstatically received my request after I mentioned I would be climbing the days before arriving and also mentioned he paraglides on the regular 💁🏻‍ and many of his friends are also climbers.
+The next step was to vary the trip as a whole and spend some time in the urban jungle. Having read [_Down and Delirious in Mexico City_](https://www.goodreads.com/book/show/9733238-down-and-delirious-in-mexico-city) in 2015 gave me some insights into where I would go if I were to want to spend some time in CDMX (which I had previously known as El DF). I scoured Airbnb for a room in [Condesa](https://en.wikipedia.org/wiki/Condesa). I booked a small room with a host that ecstatically received my request after I mentioned I would be climbing the days before arriving and also mentioned he para-glides on the regular 💁🏻‍ and many of his friends are also climbers.
 
 The trip was coming together and I started to wonder what I wanted to get out of it. I had never really asked myself _what do I value when I travel?_
 
@@ -72,7 +72,7 @@ During all of my meals, I was accompanied by several older climbers from Seattle
 
 ## Escalada Multilargo
 
-I was completely wrong. Multipitch is amazing. I want to do it again and again and again. There was no time to be scared of heights after I started my second pitch because the canyon was too beautiful to keep my eyes on the wall.
+I was completely wrong. Multi-pitch is amazing. I want to do it again and again and again. There was no time to be scared of heights after I started my second pitch because the canyon was too beautiful to keep my eyes on the wall.
 
 ```grid|3|
 ![Ascending](at_the_top.jpg)
@@ -83,19 +83,19 @@ We did end up doing Yankee Clipper,but we did not do the full 15 pitches. I am p
 
 ![Commemorative plate for Ed Wright](commemorative_plate_cropped.jpg)
 
-Despite feeling like I didn't get enough sleep, climbing on limestone felt geat. I found myself [_mantling_](https://frictionlabs.com/blog/how-it-works-the-mantle) for a majority of my moves which left me with a lot of energy in the tank for subsequent pitches and confident in being able to find the right foot hold to reach up to holds that felt too far away. Sticky feet are so nice :ok_hand:. The sun was on our backs for major part of the day with a breeze that made climbing in the sun a pleasant experience. With every pitch, however, my Miuras felt less like gloves and more like hot irons suffocating my feet from getting proper circulation to my toes. Exciting, right?
+Despite feeling like I didn't get enough sleep, climbing on limestone felt geat. I found myself [_mantling_](https://frictionlabs.com/blog/how-it-works-the-mantle) for a majority of my moves which left me with a lot of energy in the tank for subsequent pitches and confident in being able to find the right foot hold to reach up to holds that felt too far away. Sticky feet are so nice :ok_hand:. The sun was on our backs for major part of the day with a breeze that made climbing in the sun a pleasant experience. With every pitch, however, my [Miuras](https://www.sportiva.com/activity/activity-climbing/miura.html) felt less like gloves and more like hot irons suffocating my feet from getting proper circulation to my toes. Exciting, right?
 
 I couldn't wait to get to the 9th pitch so that I could switch into slip-on sneakers for the decent.
 
 ## The Descent
 
-I tried to not think too much about how we would get down. This was my first multipitch AND rappelling experience. From other stories, I'd known that rapelling was the cause of a lot of climbing accidents so I was immediately apprehensive as we started to set up our gear to start the rappel. My guide would go first and wait for me on the 8th pitch below. He asked me if I had any questions and I repeated everything I needed to do before lowering. Clean the anchor, clean my Personal Anchor System (PAS), clean my backup PAS, push the prusik down. Most importantly, trust the system. I failed to notice a critical step in the whole process. Push the rope towards the wall to allow the ATC to slide down the rope. 🤦🏻‍♀️
+I tried to not think too much about how we would get down. This was my first multi-pitch AND rappelling experience. From other stories, I'd known that rappelling was the cause of a lot of climbing accidents so I was immediately apprehensive as we started to set up our gear to start the rappel. My guide would go first and wait for me on the 8th pitch below. He asked me if I had any questions and I repeated everything I needed to do before lowering. Clean the anchor, clean my Personal Anchor System (PAS), clean my backup PAS, push the [Prusik](https://en.wikipedia.org/wiki/Prusik) down. Most importantly, trust the system. I failed to notice a critical step in the whole process. Push the rope towards the wall to allow the [ATC](https://en.wikipedia.org/wiki/ATC_(belay_device)) to slide down the rope. 🤦🏻‍♀️
 
 ![Calming my nerves with the view](view_from_the_ninth_pitch.jpg)
 
 After yelling down to my guide that the ATC was stuck and questioning whether the orientation of the ATC was at fault, I clipped my PASs back in and waited patiently as clouds rolled in and the wind picked up. This would be the second time I would intentionally open the breathe app on my Apple Watch in the last two weeks to _calm the fuck down_.
 
-My guide re-appeared over the ledge we had been standing on together 30 minutes before and began inspecting the system. He verbally walked me through the alternative approach we would be taking, the simul-rappel,
+My guide re-appeared over the ledge we had been standing on together 30 minutes before and began inspecting the system. He verbally walked me through the alternative approach we would be taking, the [simul-rappel](https://www.climbing.com/skills/how-to-simul-rappel/),
 and pushed into the rope to see what the issue with the ATC may be. When he did that and the ATC moved, I realized my ignorance. 🙈 :poop:
 
 The simul-rappel made me feel much more comfortable with what we were doing. We worked as a team to lower, counter-balancing each other along the way and flaking the rope together at the next anchor to begin lowering again.
@@ -104,7 +104,7 @@ The simul-rappel made me feel much more comfortable with what we were doing. We 
 
 The final pitch I was to go alone and use the solo rappel technique, by this time I was a pro and comfortable with what I was doing. The first few steps on flat land felt weird!
 
-In short, I'm already looking forward to my next multipitch experience and second vist to El Potrero Chico to try some of the other moderate routes in the area.
+In short, I'm already looking forward to my next multi-pitch experience and second visit to El Potrero Chico to try some of the other moderate routes in the area.
 
 ![View of the Canyon](view_of_canyon.jpg)
 
@@ -119,17 +119,17 @@ You can arrange a taxi with La Posada along with your reservation. The price of 
 
 ### Meeting Other Climbers / Asking Questions in Advance
 
-There's a Facebook group called [Potrero Chico Rock Climbing](https://www.facebook.com/groups/potrerochicorockclimbing/) where and local businesses announce events (such as movie, karaeoke, or salsa nights). For the most part, posts are from climbers putting in requests for partners, gear for sale (to lighten the load back home), or lost and found gear. Following along with the discourse in the group made me feel well informed about what was going on in EPC before I arrived.
+There's a Facebook group called [Potrero Chico Rock Climbing](https://www.facebook.com/groups/potrerochicorockclimbing/) where and local businesses announce events (such as movie, karaoke, or salsa nights). For the most part, posts are from climbers putting in requests for partners, gear for sale (to lighten the load back home), or lost and found gear. Following along with the discourse in the group made me feel well informed about what was going on in EPC before I arrived.
 
 ### The Approach
 
-I expected the approach to be a hike, but if you happen to hitch a ride, most of the approaches are less than 60 seconds from where you park. If you stay at La Posada or any of the casitas outside of the park, you're only a short walk away on a paved road. You don't really need any hiking gear if you plan on just climbing.
+I expected the approach to be a hike, but if you happen to hitch a ride, most of the approaches are less than 60 seconds from where you park. If you stay at La Posada or any of the _casitas_ outside of the park, you're only a short walk away on a paved road. You don't really need any hiking gear if you plan on just climbing.
 
 ### Hikes
 
 Given the short trip and my lack of experience and gear, I opted to go on a hike the second day I stayed at La Posada. The hike is called [El Toro](https://www.wikiloc.com/hiking-trails/el-toro-potrero-chico-16258416), and I had heard an older couple talking about their experience with it the night before while having dinner at Leo's. They looked absolutely exhausted, but where happy to have done it for the views. At the time, I wasn't aware that they were describing the hike I would be doing the next day.
 
-[Rudy and Karla](https://potrerochico.com) were very helpful in driving me to the trailhead that morning, without them I would have probably never found it. While we walked to the start of the trail, I mentioned the couple the night before talking about El Toro and Rudy replied, "yup this is it."
+[Rudy and Karla](https://potrerochico.com) were very helpful in driving me to the trail head that morning, without them I would have probably never found it. While we walked to the start of the trail, I mentioned the couple the night before talking about El Toro and Rudy replied, "yup this is it."
 
 As I started to disappear into the bushes, Rudy warned me that it was easy to lose sight of the trail in the first 5 minutes or so, but that I would eventually find the trail and the rest of the hike would be well marked. He was totally right, and I have several scrapes on my arms and legs to prove my attempt to bushwhack my way to any cairn I could find.
 
@@ -141,6 +141,6 @@ The hike was way more exhausting than climbing for the 2+ miles straight up a mo
 
 The town of Hidalgo has many restaurants and grocery stores where you can get food, coffee, and cash. Most people are nice enough to give you a ride if you happen to catch their eye as they drive by, otherwise it's a 40+ minute walk down the hill and another 40+ minute walk up the hill.
 
-I almost made that walk when I had dinner next door on my first night at [Leo's Tacos Grill](https://www.facebook.com/LEOS-TACOS-GRILL-791284507672369/). I walked under the metal roof and asked if he took credit cards. Leo nodded no, but that I could pay him back some other time. After a filling homestyle meal, I was determined to pay him back the next day and eat dinner there again.
+I almost made that walk when I had dinner next door on my first night at [Leo's Tacos Grill](https://www.facebook.com/LEOS-TACOS-GRILL-791284507672369/). I walked under the metal roof and asked if he took credit cards. Leo nodded no, but that I could pay him back some other time. After a filling home-style meal, I was determined to pay him back the next day and eat dinner there again.
 
 I happened to have \$20 cash in USD and walked over to the main office to see if I could get someone to give me a ride into town from La Posada. On walking in, I noticed a sign that said they exchange dollars for Mexican pesos. 🙌🏼 No need to go into town.
