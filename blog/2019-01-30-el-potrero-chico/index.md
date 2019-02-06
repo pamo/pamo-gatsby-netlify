@@ -70,7 +70,7 @@ I later came to realize that talking to older climbers while I was in EPC put me
 
 During all of my meals, I was accompanied by several older climbers from Seattle, Oregon, and Canada. Many of them were EPC regulars and were taking month long or indefinite breaks from work. Shout out to Mari & Tom, Annette & Jerry and their two dogs and Siamese cat for the company! They give me hope that age should be no barrier for doing some epic shit.
 
-## Escalada Multilargo
+## Escalada Multi-largo
 
 I was completely wrong. Multi-pitch is amazing. I want to do it again and again and again. There was no time to be scared of heights after I started my second pitch because the canyon was too beautiful to keep my eyes on the wall.
 
@@ -123,13 +123,13 @@ There's a Facebook group called [Potrero Chico Rock Climbing](https://www.facebo
 
 ### The Approach
 
-I expected the approach to be a hike, but if you happen to hitch a ride, most of the approaches are less than 60 seconds from where you park. If you stay at La Posada or any of the _casitas_ outside of the park, you're only a short walk away on a paved road. You don't really need any hiking gear if you plan on just climbing.
+I expected the approach to be a hike, but if you happen to hitch a ride, most of the approaches are less than 60 seconds from where you park. If you stay at La Posada or any of the _casitas_ outside of the park, you're only a short walk away on a paved road. You don't really need any hiking shoes if you plan on just climbing. Rappelling in slip-on canvas shoes felt like a luxury.
 
 ### Hikes
 
-Given the short trip and my lack of experience and gear, I opted to go on a hike the second day I stayed at La Posada. The hike is called [El Toro](https://www.wikiloc.com/hiking-trails/el-toro-potrero-chico-16258416), and I had heard an older couple talking about their experience with it the night before while having dinner at Leo's. They looked absolutely exhausted, but where happy to have done it for the views. At the time, I wasn't aware that they were describing the hike I would be doing the next day.
+Given the short trip and my lack of experience and gear, I opted to go on a hike the second day I stayed at La Posada. The trail I took took me to the summit of [El Toro](https://www.wikiloc.com/hiking-trails/el-toro-potrero-chico-16258416). I had heard an older couple talking about their experience with it the night before while having dinner at [Leo's](#shop--dine), and they looked absolutely exhausted. Their spirits were high and they praised it for the views. At the time, I wasn't aware that they were describing the hike I would be doing the next day.
 
-[Rudy and Karla](https://potrerochico.com) were very helpful in driving me to the trail head that morning, without them I would have probably never found it. While we walked to the start of the trail, I mentioned the couple the night before talking about El Toro and Rudy replied, "yup this is it."
+[Rudy and Karla](https://potrerochico.com) were very helpful in driving me to the trail head that morning, without them I would have probably never found it despite some [detailed instructions](https://potrerochico.com/potrero-chico-rest-day/) on their website. While we walked to the start of the trail, I mentioned the couple the night before talking about El Toro and Rudy replied, "yup this is it."
 
 As I started to disappear into the bushes, Rudy warned me that it was easy to lose sight of the trail in the first 5 minutes or so, but that I would eventually find the trail and the rest of the hike would be well marked. He was totally right, and I have several scrapes on my arms and legs to prove my attempt to bushwhack my way to any cairn I could find.
 
@@ -139,8 +139,12 @@ The hike was way more exhausting than climbing for the 2+ miles straight up a mo
 
 ### Shop & Dine
 
-The town of Hidalgo has many restaurants and grocery stores where you can get food, coffee, and cash. Most people are nice enough to give you a ride if you happen to catch their eye as they drive by, otherwise it's a 40+ minute walk down the hill and another 40+ minute walk up the hill.
+The town of Hidalgo has many restaurants and grocery stores where you can get food, coffee, and cash. Most people are nice enough to give you a ride if you happen to catch their eye as they drive by, otherwise it's a 40+ minute walk down the hill and another 40+ minute walk up the hill. For a more informed guide, check out some [rest day beta](https://potrerochico.com/potrero-chico-rest-day/) from Potrero Chico Climbing Guides
 
-I almost made that walk when I had dinner next door on my first night at [Leo's Tacos Grill](https://www.facebook.com/LEOS-TACOS-GRILL-791284507672369/). I walked under the metal roof and asked if he took credit cards. Leo nodded no, but that I could pay him back some other time. After a filling home-style meal, I was determined to pay him back the next day and eat dinner there again.
+My curiosity for coffee shops and need for cash almost convinced me to make that walk after slogging my way up to El Toro, but I discovered I could exchange the $20 USD I had on hand at the main office at La Posada. My need for cash was only to pay back for a home-style dinner I had next door at [Leo's Tacos Grill](https://www.facebook.com/LEOS-TACOS-GRILL-791284507672369/) the night before and to have the ability to eat there again. The two meals at Leo's only set me back $16 USD and some change. What I loved about it, I will talk about in a later post.
 
-I happened to have \$20 cash in USD and walked over to the main office to see if I could get someone to give me a ride into town from La Posada. On walking in, I noticed a sign that said they exchange dollars for Mexican pesos. 🙌🏼 No need to go into town.
+### What Would I Differently?
+
+* Stay longer and bring friends (or make friends)  so that I can climb more. 😬
+* Rent a car: airport transportation is overpriced. Having a car on hand would make it easier to drive to the crag and into town for food.
+* Cook more. Although meals were a steal compared to dining out in San Francisco, cooking in the communal kitchen at La Posada would make it easier to eat on my own schedule. Sometimes I just want to eat dinner and crash, but in Mexico meal times are a few hours delayed compared to our feeding rituals in the US and kitchens open to accommodate the later crowd.
