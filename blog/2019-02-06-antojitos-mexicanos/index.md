@@ -3,6 +3,7 @@ category: Travel
 date: '2019-02-06T09:59:59.049Z'
 title: Antojitos Mexicanos
 path: antojitos-mexicanos
+draft: true
 ---
 
 Wikipedia defines [_antojitos_](https://en.wikipedia.org/wiki/Mexican_street_food) as Mexican street food, snacks, or "little cravings". The non-diminutive version, _antojo_, means craving. One of the primary activities during my visit to Mexico was to satisfy my cravings for good Mexican food and seasonal dishes that my family hasn't exposed me to.
@@ -16,6 +17,7 @@ I started the trip off with two big healthy doses of Tex-Mex via airport meals. 
 ![eating lunch in a cramped boarding gate phone cubby](airport/cala_chicken_bowl.jpg)
 ![meat and veggies at wings](airport/wings_dinner.jpg)
 ```
+
 A lot of my meals would end up looking the same, with some exception of some _gringa_ cravings I had for breakfast.
 
 ## Breakfast
@@ -41,11 +43,11 @@ To accompany the taco al pastor, I also ordered an arrachera taco and alambres d
 
 Taco Naco would be the first restaurant where I noticed the note of quantity of meat in each dish in grams. I really appreciated this because I could get an idea of how much protein I'd be getting in with each meal.
 
-* Cost of meal:
-* Method of Payment: credit card
-* Feeling: hot and hangry
-* Fun fact: naco means [insert definition here] in Spanish
-* Address:
-* Menu:
+- Cost of meal:
+- Method of Payment: credit card
+- Feeling: hot and hangry
+- Fun fact: naco means [insert definition here] in Spanish
+- Address:
+- Menu:
 
 ## Snacks
