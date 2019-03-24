@@ -139,7 +139,9 @@ As I started to disappear into the bushes, Rudy warned me that it was easy to lo
 
 ![The route to El Toro and back to La Posada](el_toro_hike.png)
 
-The hike was way more exhausting than climbing for the 2+ miles straight up a mostly exposed trail lined with cacti and thorny bushes and 2+ miles back down. The steepest parts of the trail were covered in small gravel rocks, making it difficult to just run down. Each step felt precarious for me, but was often in vain when a rock rolled either of my feet out from under me.
+The hike was way more exhausting than climbing for the 2+ miles straight up a mostly exposed trail lined with cacti and thorny bushes and 2+ miles back down. The steepest parts of the trail were covered in small gravel rocks, making it difficult to just run down. Each step felt precarious for me, but was often in vain when a rock rolled either of my feet out from under me. Making it to the top felt like a chance to finally catch my breath but the view continued to excite me (albeit in a completely uplifting way).
+
+![At the top](cumbre_el_toro.jpg)
 
 ### Shop & Dine
 
