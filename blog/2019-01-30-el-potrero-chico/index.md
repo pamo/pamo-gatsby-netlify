@@ -127,6 +127,8 @@ There's a Facebook group called [Potrero Chico Rock Climbing](https://www.facebo
 
 I expected the approach to be a hike, but if you happen to hitch a ride, most of the approaches are less than 60 seconds from where you park. If you stay at La Posada or any of the _casitas_ outside of the park, you're only a short walk away on a paved road. You don't really need any hiking shoes if you plan on just climbing. Rappelling in slip-on canvas shoes felt like a luxury.
 
+![Park Entrance](parkentrance.jpg)
+
 ### Hikes
 
 Given the short trip and my lack of experience and gear, I opted to go on a hike the second day I stayed at La Posada. The trail I took took me to the summit of [El Toro](https://www.wikiloc.com/hiking-trails/el-toro-potrero-chico-16258416). I had heard an older couple talking about their experience with it the night before while having dinner at [Leo's](#shop--dine), and they looked absolutely exhausted. Their spirits were high and they praised it for the views. At the time, I wasn't aware that they were describing the hike I would be doing the next day.
@@ -144,6 +146,8 @@ The hike was way more exhausting than climbing for the 2+ miles straight up a mo
 The town of Hidalgo has many restaurants and grocery stores where you can get food, coffee, and cash. Most people are nice enough to give you a ride if you happen to catch their eye as they drive by, otherwise it's a 40+ minute walk down the hill and another 40+ minute walk up the hill. For a more informed guide, check out some [rest day beta](https://potrerochico.com/potrero-chico-rest-day/) from Potrero Chico Climbing Guides
 
 My curiosity for coffee shops and need for cash almost convinced me to make that walk after slogging my way up to El Toro, but I discovered I could exchange the $20 USD I had on hand at the main office at La Posada. My need for cash was only to pay back for a home-style dinner I had next door at [Leo's Tacos Grill](https://www.facebook.com/LEOS-TACOS-GRILL-791284507672369/) the night before and to have the ability to eat there again. The two meals at Leo's only set me back $16 USD and some change. What I loved about it, I talk about in a [later post](/antojitos-mexicanos).
+
+![Leo's Tacos](leostacos.jpg)
 
 ### What Would I Differently?
 
