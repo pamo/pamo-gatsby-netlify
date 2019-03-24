@@ -6,7 +6,7 @@ path: el-potrero-chico
 cover: './view_of_canyon.jpg'
 ---
 
-## The Little Corral
+## "The Little Corral"
 
 I learned about this place April 2017 when I was walking up to the summit of Angel's Landing with a group of Spanish-speaking people walking behind me. Curiosity got a hold of me and I turned around to ask where they were from. "De Mexico," they replied. My eyes lit up and I started to make conversation with the group about their plans in the states. I also mentioned that my family is from Mexico, but that I was 10 years old the last time I had visited. My family has majorly moved to North Carolina and my grandparents passed away since then. There hasn't been too much motivation for me to revisit.
 
@@ -14,19 +14,19 @@ Whenever I make the effort to push myself out of my comfort zone to speak to a s
 
 There was no hesitation in their response. If I wanted to go climbing, I should definitely go to _El Potrero Chico_ because of its fame among climbers, reputation for one of [Alex Honnold's successful free solos](https://www.youtube.com/watch?v=Phl82D57P58), and all around beauty.
 
-I immediately added it to my bucket list Trello board when I got back home from my Zion adventure.
+I immediately added it to my bucket list (which is actually a Trello board) when I got back home from my Zion adventure.
 
-Since then I've floated the idea of climbing in Mexico to several friends but never really acted on getting the ball rolling. We've been outdoors several times in California since then. March 2018 was the first time we visited Bishop, CA, for the [Women's Climbing Festival](http://flashfoxy.com/wcf-bishop) and were enamored with the beauty of the land as well as accessibility of the climbing. We returned again for #Climbsgiving in November 2018 to give some outdoor leading a go in Owens River Gorge, as well as paying a visit to Alabama Hills.
+Since then, I've floated the idea of climbing in Mexico to several friends, but never really acted on getting the ball rolling. We are lucky to have a huge amount of climbing in California that leaving the state seems unnecessary.
 
-It's always a joy to get out of the city and share incredible experiences with friends outdoors.
+It's always a joy to get out of the city and share incredible experiences with friends outdoors. March 2018 was the first time I visited Bishop, CA, for the [Women's Climbing Festival](http://flashfoxy.com/wcf-bishop) and my friends and me were enamored with the beauty of the land as well as accessibility of the climbing. We returned again for #Climbsgiving in November 2018 to give some outdoor leading a go in Owens River Gorge and Alabama Hills. Since then I've traveled to Mount Diablo and Auburn Quarry to continue facing the fear of setting anchors and lead climbing outdoors.
 
 ## Travel Bug
 
 This new year had me feeling like I was missing out on something but I couldn't figure out _what_. I started to replay the things I had done in the last year and remembered this being the time when I started getting a travel bug. I said yes to the first thing that anyone mentioned to me and found myself in Banff in the thick of Canadian winter. If you know me, you know I absolutely despise being cold, but the travel bug knows no discomfort.
 
-The travel bug started me getting back to researching trips to El Potrero Chico. I floated the idea around and there seemed to be interest but no real drive to commit. It felt too soon to try to plan anything in the next month or two, but there were already too many other commitments in the rest of the year (weddings, music festivals, concerts, conferences, etc).
+The travel bug started me getting back to researching trips to El Potrero Chico. Part of me wanted others to join me, but after floating the idea around and realizing the effort to try to coordinate was too much to satisfy my bug. It felt too soon to try to plan anything in the next month or two, but there were already too many other commitments in the rest of the year (weddings, music festivals, concerts, conferences, etc).
 
-I almost let the plan fall through but I kept the flight itinerary opened in a tab and information about climbing guides in another. I started _talking_ about the idea of going to Mexico to several people. My engineering manager, friends, friends of friends. There was a little voice in the back of my head that kept saying: just book the flight.
+I almost let the plan fall through, but I kept the flight itinerary opened in a tab and information about climbing guides in another. I started _talking_ about the idea of going to Mexico to several people. My engineering manager, friends, friends of friends. There was a little voice in the back of my head that kept saying: just book the flight.
 
 The day [this article about millennial burnout](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work) began to become viral on Twitter, I started to read it and got to the graphic of a rope on the brink of breaking when I thought, _just freaking buy the flight_. I stopped reading the article because I couldn't identify with it as a person of color, but the thought of feeling burned out alone drove me to realize I needed to get away by myself.
 
@@ -89,7 +89,7 @@ I couldn't wait to get to the 9th pitch so that I could switch into slip-on snea
 
 ## The Descent
 
-I tried to not think too much about how we would get down. This was my first multi-pitch AND rappelling experience. From other stories, I'd known that rappelling was the cause of a lot of climbing accidents so I was immediately apprehensive as we started to set up our gear to start the rappel. My guide would go first and wait for me on the 8th pitch below. He asked me if I had any questions and I repeated everything I needed to do before lowering. Clean the anchor, clean my Personal Anchor System (PAS), clean my backup PAS, push the [Prusik](https://en.wikipedia.org/wiki/Prusik) down. Most importantly, trust the system. I failed to notice a critical step in the whole process. Push the rope towards the wall to allow the [ATC](https://en.wikipedia.org/wiki/ATC_(belay_device)) to slide down the rope. 🤦🏻‍♀️
+I tried to not think too much about how we would get down. This was my first multi-pitch AND rappelling experience. From other stories, I'd known that rappelling was the cause of a lot of climbing accidents so I was immediately apprehensive as we started to set up our gear to start the rappel. My guide would go first and wait for me on the 8th pitch below. He asked me if I had any questions and I repeated everything I needed to do before lowering. Clean the anchor, clean my Personal Anchor System (PAS), clean my backup PAS, push the [Prusik](https://en.wikipedia.org/wiki/Prusik) down. Most importantly, trust the system. I failed to notice a critical step in the whole process. Push the rope towards the wall to allow the [ATC](<https://en.wikipedia.org/wiki/ATC_(belay_device)>) to slide down the rope. 🤦🏻‍♀️
 
 ![Calming my nerves with the view](view_from_the_ninth_pitch.jpg)
 
@@ -111,6 +111,8 @@ In short, I'm already looking forward to my next multi-pitch experience and seco
 ## EPC Beta
 
 Getting to and from EPC was a breeze after I found the proper resources and information to make me feel well informed about the trip. I didn't explore much outside of La Posada and the park itself during my two-day stay but I felt like I made the most of what I had available to me.
+
+![La Posada](laposada.jpg)
 
 ### Airport Transportation
 
@@ -145,6 +147,8 @@ My curiosity for coffee shops and need for cash almost convinced me to make that
 
 ### What Would I Differently?
 
-* Stay longer and bring friends (or make friends)  so that I can climb more. 😬
-* Rent a car: airport transportation is overpriced. Having a car on hand would make it easier to drive to the crag and into town for food.
-* Cook more. Although meals were a steal compared to dining out in San Francisco, cooking in the communal kitchen at La Posada would make it easier to eat on my own schedule. Sometimes I just want to eat dinner and crash, but in Mexico meal times are a few hours delayed compared to our feeding rituals in the US and kitchens open to accommodate the later crowd.
+- Stay longer and bring friends (or make friends) so that I can climb more. 😬
+- Rent a car: airport transportation is overpriced. Having a car on hand would make it easier to drive to the crag and into town for food.
+- Cook more. Although meals were a steal compared to dining out in San Francisco, cooking in the communal kitchen at La Posada would make it easier to eat on my own schedule. Sometimes I just want to eat dinner and crash, but in Mexico meal times are a few hours delayed compared to our feeding rituals in the US and kitchens open to accommodate the later crowd.
+
+I'm excited to have done the experience and am looking forward to the next visit.
