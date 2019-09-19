@@ -9,7 +9,7 @@
   "author": "Pamela Ocampo <pamela.ocampo@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.9.2",
-    "gatsby": "^2.0.78",
+    "gatsby": "^2.0.84",
     "gatsby-image": "^2.0.25",
     "gatsby-plugin-catch-links": "^2.0.9",
     "gatsby-plugin-google-analytics": "^2.0.8",
@@ -46,7 +46,8 @@
     "styled-components": "^4.1.2",
     "typography": "^0.16.18",
     "unist-builder": "^1.0.3",
-    "unist-util-visit": "^1.4.0"
+    "unist-util-visit": "^1.4.0",
+    "snyk": "^1.228.2"
   },
   "keywords": [
     "gatsby",
@@ -62,7 +63,9 @@
     "lint:md": "prettier --write blog/**/*.md",
     "serve": "gatsby build && gatsby serve",
     "start": "npm run dev",
-    "post": "node new-post.js"
+    "post": "node new-post.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "husky": {
     "hooks": {
@@ -99,5 +102,6 @@
     "npm-run-all": "^4.1.5",
     "prettier": "^1.15.3",
     "prompt": "^1.0.0"
-  }
+  },
+  "snyk": true
 }
