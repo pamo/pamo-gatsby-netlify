@@ -1,7 +1,7 @@
 ---
 title: 'Pastry Report: Jane the Bakery'
 date: '2020-11-13T16:04:44.464Z'
-layout: post
+category: Food
 ---
 
 ![taco awning](20201103-010.jpg)
