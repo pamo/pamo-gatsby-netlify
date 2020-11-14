@@ -4,9 +4,9 @@ date: '2020-11-13T16:04:44.464Z'
 category: Food
 ---
 
-![taco awning](20201103-010.jpg)
-
 [1881 Geary Blvd](https://www.itsjane.com/location/jane-the-bakery/), Lower Fillmore, San Francisco, CA.
+
+![awning](20201103-010.jpg)
 
 To find Jane the Bakery, look for a building that oddly looks like an old combination KFC & Taco Bell. In fact, it is! As of writing this post, a blacked out KFC bucket sign still hovers over the parking lot.
 
