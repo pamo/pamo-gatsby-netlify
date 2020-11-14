@@ -43,7 +43,7 @@ Jane excels in both the baked good and hot beverage departments. You can grab a 
 
 ![bread](20201103-007.jpg)
 
-<p style="text-align: center">:camera: by <a href="https://www.instagram.com/stevo_chang/">@stevo_chang</a></p>
+<p style="text-align: center"><em>Olive polenta loaf. The attendant recommended cutting a thumb-sized hole in the middle of a slice and pan frying it with an egg in the middle.</em> <br/>:camera: by <a href="https://www.instagram.com/stevo_chang/">@stevo_chang</a></p>
 
 #### Jane, you had me at spicy sausage
 
