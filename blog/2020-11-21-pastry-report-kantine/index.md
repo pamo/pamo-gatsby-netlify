@@ -5,13 +5,11 @@ title: 'Pastry Report: Kantine'
 path: pastry-report-kantine
 ---
 
-For some of us, the Upper Market Street hustle may be a memory of an afternoon commute of a past era, but this gasping commuter hill still holds some gems to check out.
-
 ![twin peaks](DSCF0277.jpg)
 
-Next time you find yourself on top of Twin Peaks on a brisk morning, look out on to Market Street and you might be able to spot Kantine. From there, the routes to get there are endless. If you're feeling like a rocket ship, descending Twin Peaks and taking a lane from the top of Market Street will get you there in no time. For a photo pace route, Ashbury, Page, and the Wiggle will let you sort out what you want to order once you arrive.
+Next time you find yourself on top of Twin Peaks on a brisk morning wanting a warm beverage and pastry, look out on to Market Street and you might be able to spot Kantine. From Twin Peaks, the routes to get to Kantine are endless. For a fast-paced adrenaline rush, descending Twin Peaks and taking a lane from the top of Market Street will get you there in no time. For a leisure/photo-pace route, you can take Ashbury, Page, and The Wiggle to give you time to sort out what you want to order when you arrive.
 
-Kantine is a Scandanavian gem that can be easy to miss, but stopping is worth the break with plenty of space for bikes and outdoor dining.
+For some of us, the Upper Market Street hustle may be a memory of an afternoon commute of a past era, but the gasping commuter hills still hold some gems to check out. Kantine is a one of those gems that can be easy to miss, but stopping is worth the break with plenty of space for bikes and outdoor dining.
 
 ![bikes](DSCF0319.jpg)
 
