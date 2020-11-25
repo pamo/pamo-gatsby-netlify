@@ -15,21 +15,25 @@ For some of us, the Upper Market Street hustle may be a memory of an afternoon c
 
 Kantine's comforting spread of Scandinavian dishes, breads, pastries and coffee have been around since 2018 and before that as a regular pop-up at the Ferry Building farmer's market.
 
-```grid|3|
+```grid|4|
 ![sarah ordering](DSCF0284.jpg)
 ![kai ordering](DSCF0303.jpg)
+![pastry case](DSCF7307.jpg)
 ```
 
 Kantine's pastries are ones that are unique in the line up of never-ending bakery options in San Francisco. The cardamom morning bun is a favorite go-to for some of Kantine's Fat Cake regulars, but you'll find that the pastry case holds some options for both sweet and savory cravings.
 
-```grid|3|
+```grid|4|
 ![coffee warmth](DSCF0296.jpg)
-![coffee joy](DSCF0300.jpg)
+![nom](DSCF0305.jpg)
+![kai laughing](DSCF0316.jpg)
 ```
+
+![coffee joy](DSCF0300.jpg)
 
 Seasonal finds are also common! Can't wait for creamy, marzipan delight that is semla to make its return next year.
 
 ```grid|3|
-![nom](DSCF0305.jpg)
-![kai laughing](DSCF0316.jpg)
+![semla](DSCF7308.jpg)
+![semla cross-section](DSCF7311.jpg)
 ```
