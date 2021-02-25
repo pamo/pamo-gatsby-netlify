@@ -69,3 +69,4 @@ tailwind on the way back. eerie how quiet it gets when you're going the same spe
 ### reflection
 what you would do differently if you went back, most memorable parts of the ride
 What was unexpected/what you planned and had to change, awesome things you saw, worthwhile detours, people you met
+We saw a lot of other fire roads/double track that were at least 20% grades. We also saw what looked like a gondola on one side of a creek that looked like its purpose was to pull yourself across the creek. We saw a car that was completely demolished by all types of ammo and perhaps wildfires.
