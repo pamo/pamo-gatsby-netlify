@@ -9,7 +9,7 @@
   "author": "Pamela Ocampo <pamela.ocampo@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.11.1",
-    "gatsby": "^2.32.8",
+    "gatsby": "^4.14.0",
     "gatsby-image": "^2.5.0",
     "gatsby-plugin-catch-links": "^2.4.0",
     "gatsby-plugin-google-analytics": "^2.5.0",
