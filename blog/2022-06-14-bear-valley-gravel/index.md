@@ -1,13 +1,12 @@
 ---
 category: Bikes
 date: '2022-06-15T02:29:10.609Z'
-draft: true
 title: Bear Valley Gravel
 path: bear-valley-gravel
 ---
 ![Bear Valley Climb](bear-valley-climb-2.jpg)
 
-Yee-haw! Bear Valley is an area north of Truckee, CA that I visited with friends last June. The weather was hot and water was sparse but the views, [ride shenanigans](), and camp hangs made me look forward to a repeat this year. 
+Yee-haw! Bear Valley is an area north of Truckee, CA that I visited with friends last June. The weather was hot and water was sparse but the views, ride shenanigans, and camp hangs made me look forward to a repeat this year. 
 
 ### TL;DR
 * Book the campsite: [Cottonwood Creek Campground](https://www.recreation.gov/camping/campgrounds/232871)
