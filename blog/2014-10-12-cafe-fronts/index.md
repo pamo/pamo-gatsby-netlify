@@ -14,7 +14,7 @@ Most of them had a minimalist feel and windows you could peer into to get a sens
 So, I started photographing these store fronts, or cafe fronts, to try to capture what I saw as I walked up to another shop. For each entry, I note what I had and whether or not I had it at the cafes or to take-away.
 Now as I visit other cities, new cafes in San Francisco, or revisit old favorites, I try to capture these moments to keep a photo diary of my never-ending caffeine crawl.
 
-With the power of the hash-tag, I've been keeping a log of these shots with #cafefront on [Instagram](http://instagram.com/pmocampo).
+With the power of the hash-tag, I've been keeping a log of these shots with #cafefront on [Instagram](http://instagram.com/pamo.gif).
 My goal is to parse my Instagram feed's JSON to keep a aggregation of shots with the hashtag on a separate page as I add new entries, I've got something rudimentary in node and express but it's not the best.
 
 For now, here are a few of my shots linked to the original Instagram entry.

@@ -39,7 +39,7 @@ const networks = {
     icon: Github,
   },
   instagram: {
-    url: 'http://instagram.com/pmocampo',
+    url: 'http://instagram.com/pamo.gif',
     icon: Instagram,
   },
   foursquare: {
