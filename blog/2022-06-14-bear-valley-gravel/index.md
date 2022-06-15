@@ -7,10 +7,15 @@ path: bear-valley-gravel
 ---
 ![Bear Valley Climb](bear-valley-climb-2.jpg)
 
-Yee-haw! Bear Valley is an area north of Truckee, CA that I visited with friends last June. The weather was hot and water was sparse but the views, [ride shenanigans](https://www.strava.com/activities/5466195059), and camp hangs made me look forward to a repeat this year. 
+Yee-haw! Bear Valley is an area north of Truckee, CA that I visited with friends last June. The weather was hot and water was sparse but the views, [ride shenanigans](), and camp hangs made me look forward to a repeat this year. 
+
+### TL;DR
+* Book the campsite: [Cottonwood Creek Campground](https://www.recreation.gov/camping/campgrounds/232871)
+* Ride either of these routes: [2021](https://www.strava.com/activities/5466195059), [2022](https://www.strava.com/activities/7298858546)
+* Pack extra water as the creeks may be dry later in the summer.
 
 ![instagram](CTNCgnRBXVe)
-_Footage from 2021. Go fast, don't die_
+<p style="text-align: center; font-style: italic">Footage from 2021. Go fast, don't die.</p>
 
 The group was much smaller this time around thanks to COVID taking its toll on a lot of my social circles. Having been recovering from my first cold since 2020, I was looking forward to going on any adventure after being sidelined for a few weeks.
 
@@ -62,9 +67,8 @@ The beginning of our route on Lemon Canyon Rd. was marked by pines, firs, and le
 
 ![sarcodes](red-mushroom.jpg)
 
-We also had a good time cloud gazing and picking out a favorite cloud. This was mine.
-
 ![favorite cloud](fave-cloud.jpg)
+<p style="text-align: center; font-style: italic">We also had a good time cloud gazing and picking out a favorite cloud. This was mine.</p>
 
 ```grid|2|
 ![quinton sending it](quinton-descent-1.jpg)
