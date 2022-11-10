@@ -9,7 +9,7 @@
   "author": "Pamela Ocampo <pamela.ocampo@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.11.1",
-    "gatsby": "^2.32.8",
+    "gatsby": "^5.0.0",
     "gatsby-image": "^2.5.0",
     "gatsby-plugin-catch-links": "^2.4.0",
     "gatsby-plugin-google-analytics": "^2.5.0",
@@ -32,7 +32,7 @@
     "gatsby-remark-responsive-iframe": "^2.5.0",
     "gatsby-remark-smartypants": "^2.4.0",
     "gatsby-source-filesystem": "^2.5.0",
-    "gatsby-transformer-remark": "^2.10.0",
+    "gatsby-transformer-remark": "^6.0.0",
     "gatsby-transformer-sharp": "^2.6.0",
     "lodash": "^4.17.21",
     "polished": "^2.3.3",
