@@ -9,7 +9,7 @@
   "author": "Pamela Ocampo <pamela.ocampo@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.11.1",
-    "gatsby": "^2.32.8",
+    "gatsby": "^4.25.4",
     "gatsby-image": "^2.5.0",
     "gatsby-plugin-catch-links": "^2.4.0",
     "gatsby-plugin-google-analytics": "^2.5.0",
@@ -18,7 +18,7 @@
     "gatsby-plugin-netlify": "^2.5.0",
     "gatsby-plugin-offline": "^2.2.10",
     "gatsby-plugin-react-helmet": "^3.4.0",
-    "gatsby-plugin-sharp": "^2.8.0",
+    "gatsby-plugin-sharp": "^3.15.0",
     "gatsby-plugin-sitemap": "^2.6.0",
     "gatsby-plugin-styled-components": "^3.4.0",
     "gatsby-plugin-typography": "^2.6.0",
